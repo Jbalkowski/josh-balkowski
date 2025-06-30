@@ -15,8 +15,8 @@ const infoHeading = `
 `;
 
 const infoHeadshot = {
-	"desktop": "headshot-desktop.jpg",
-	"mobile": "headshot-mobile.jpg"
+	"desktop": "headshot-desktop1.jpg",
+	"mobile": "headshot-mobile1.jpg"
 }
 
 const infoContentColumn1 = `
