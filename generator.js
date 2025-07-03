@@ -40,14 +40,14 @@ const homeHeroes = [
 		"caption": "Web Design - Freeage Productions"
 	},
 	{
-		"image-desktop": "FA-home-desktop.jpg",
-		"image-mobile": "FA-home.jpg",
-		"caption": "Web Design - Freeage Productions"
-	},
-	{
 		"image-desktop": "skinandbones-home-desktop.jpg",
 		"image-mobile": "skinandbones-home.jpg",
 		"caption": "Design - Valentines Matchboxes"
+	},
+	{
+		"image-desktop": "FA-home-desktop.jpg",
+		"image-mobile": "FA-home.jpg",
+		"caption": "Web Design - Freeage Productions"
 	},
 	{
 		"image-desktop": "Bout-home-desktop.jpg",
