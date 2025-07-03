@@ -5,19 +5,9 @@
 
 const homeHeroes = [
 	{
-		"image-desktop": "pkw-home-desktop.jpg",
-		"image-mobile": "pkw-home.jpg",
-		"caption": "Design - Please Keep Well"
-	},
-	{
 		"image-desktop": "butter-home-desktop-2.jpg",
 		"image-mobile": "butter-home-2.jpg",
 		"caption": "Branding - The Butter Experience"
-	},
-	{
-		"image-desktop": "skinandbones-home-desktop.jpg",
-		"image-mobile": "skinandbones-home.jpg",
-		"caption": "Design - Valentines Matchboxes"
 	},
 	{
 		"image-desktop": "sharpie-home-desktop.jpg",
@@ -25,9 +15,44 @@ const homeHeroes = [
 		"caption": "Art Direction - Permanent Change"
 	},
 	{
+		"image-desktop": "AS-home-desktop.jpg",
+		"image-mobile": "AS-home.jpg",
+		"caption": "Web Design - Absolute Treat"
+	},
+	{
+		"image-desktop": "pkw-home-desktop.jpg",
+		"image-mobile": "pkw-home.jpg",
+		"caption": "Design - Please Keep Well"
+	},
+	{
+		"image-desktop": "Screen-home-desktop.jpg",
+		"image-mobile": "Screen-home.jpg",
+		"caption": "Screen Print Design - Various"
+	},
+	{
 		"image-desktop": "jack-and-jill-home-desktop.jpg",
 		"image-mobile": "jack-and-jill-home.jpg",
 		"caption": "Design - Jack & Jill Health"
+	},	
+	{
+		"image-desktop": "SA-home-desktop.jpg",
+		"image-mobile": "SA-home.jpg",
+		"caption": "Web Design - Freeage Productions"
+	},
+	{
+		"image-desktop": "FA-home-desktop.jpg",
+		"image-mobile": "FA-home.jpg",
+		"caption": "Web Design - Freeage Productions"
+	},
+	{
+		"image-desktop": "skinandbones-home-desktop.jpg",
+		"image-mobile": "skinandbones-home.jpg",
+		"caption": "Design - Valentines Matchboxes"
+	},
+	{
+		"image-desktop": "Bout-home-desktop.jpg",
+		"image-mobile": "bout-home.jpg",
+		"caption": "Lighting - Bout"
 	}
 ]
 
