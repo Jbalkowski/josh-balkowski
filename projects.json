@@ -18,11 +18,6 @@
 				"Benjamin Badiuk"
 			]
 		},
-		"home-hero": {
-			"desktop-image": "pkw-home-desktop.jpg",
-			"mobile-image": "pkw-home.jpg",
-			"caption": "Design - Please Keep Well"
-		},
 		"hero-desktop": {
 			"image": "pkw-hero.jpg",
 			"video": ""
@@ -128,11 +123,6 @@
 				"Photography",
 				"Web Design"
 			]
-		},
-		"home-hero": {
-			"desktop-image": "butter-home-desktop-2.jpg",
-			"mobile-image": "butter-home-2.jpg",
-			"caption": "Branding - The Butter Experience"
 		},
 		"hero-desktop": {
 			"image": "butter-hero.jpg",
@@ -272,11 +262,6 @@
 				"Andrew Watch"
 			]
 		},
-		"home-hero": {
-			"desktop-image": "skinandbones-home-desktop.jpg",
-			"mobile-image": "skinandbones-home.jpg",
-			"caption": "Design - Valentines Matchboxes"
-		},
 		"hero-desktop": {
 			"image": "skinandbones-hero-desktop.jpg",
 			"video": ""
@@ -379,11 +364,6 @@
 				"Design"
 			]
 		},
-		"home-hero": {
-			"desktop-image": "sharpie-home-desktop.jpg",
-			"mobile-image": "sharpie-home.jpg",
-			"caption": "Art Direction - Permanent Change"
-		},
 		"hero-desktop": {
 			"image": "sharpie-hero-desktop.jpg",
 			"video": ""
@@ -461,11 +441,6 @@
 				"Branding",
 				"Packaging Design"
 			]
-		},
-		"home-hero": {
-			"desktop-image": "jack-and-jill-home-desktop.jpg",
-			"mobile-image": "jack-and-jill-home.jpg",
-			"caption": "Design - Jack & Jill Health"
 		},
 		"hero-desktop": {
 			"image": "jack-and-jill-hero.jpg",
@@ -549,11 +524,6 @@
 			"Services": [
 				"Treatment Design"
 			]
-		},
-		"home-hero": {
-			"desktop-image": "",
-			"mobile-image": "",
-			"caption": ""
 		},
 		"hero-desktop": {
 			"image": "various-hero.jpg",

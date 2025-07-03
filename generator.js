@@ -3,6 +3,34 @@
 // Edit this!
 // ——————————————————————————————————————————————————————
 
+const homeHeroes = [
+	{
+		"image-desktop": "pkw-home-desktop.jpg",
+		"image-mobile": "pkw-home.jpg",
+		"caption": "Design - Please Keep Well"
+	},
+	{
+		"image-desktop": "butter-home-desktop-2.jpg",
+		"image-mobile": "butter-home-2.jpg",
+		"caption": "Branding - The Butter Experience"
+	},
+	{
+		"image-desktop": "skinandbones-home-desktop.jpg",
+		"image-mobile": "skinandbones-home.jpg",
+		"caption": "Design - Valentines Matchboxes"
+	},
+	{
+		"image-desktop": "sharpie-home-desktop.jpg",
+		"image-mobile": "sharpie-home.jpg",
+		"caption": "Art Direction - Permanent Change"
+	},
+	{
+		"image-desktop": "jack-and-jill-home-desktop.jpg",
+		"image-mobile": "jack-and-jill-home.jpg",
+		"caption": "Design - Jack & Jill Health"
+	}
+]
+
 const workFilters = [
 	"Branding",
 	"Art Direction",
@@ -445,24 +473,21 @@ function generateHTML() {
 	});
 
 	// Generate homepage
-	let homeHeroes = '';
+	let homeHeroesHTML = '';
 	let homeHeroIndex = 0;
-	for (let project of projects) {
-		let heroData = project['home-hero'];
-		if (heroData['desktop-image'].length > 0) {
-			let active = false;
-			if (homeHeroIndex == 0) {
-				active = true;
-			}
-			homeHeroes += `
-				<div class="home-background-hero" id="${project['slug']}" data-active="${active}">
-					<img src="/work/${project['slug']}/${heroData['desktop-image']}" class="home-background-hero-image home-background-hero-image-desktop">
-					<img src="/work/${project['slug']}/${heroData['mobile-image']}" class="home-background-hero-image home-background-hero-image-mobile">
-					<p class="home-background-hero-caption">${heroData['caption']}</p>
-				</div>
-			`;
-			homeHeroIndex++;
+	for (let homeHero of homeHeroes) {
+		let active = false;
+		if (homeHeroIndex == 0) {
+			active = true;
 		}
+		homeHeroesHTML += `
+			<div class="home-background-hero" data-active="${active}" alt="${homeHero['caption']}">
+				<img src="/assets/home-heroes/${homeHero['image-desktop']}" class="home-background-hero-image home-background-hero-image-desktop">
+				<img src="/assets/home-heroes/${homeHero['image-mobile']}" class="home-background-hero-image home-background-hero-image-mobile">
+				<p class="home-background-hero-caption">${homeHero['caption']}</p>
+			</div>
+		`;
+		homeHeroIndex++;
 	}
 
 	// Homepage
@@ -505,7 +530,7 @@ function generateHTML() {
 				<a class="copyright" href="/credits/">© ${currentYear}</a>
 		
 				<main class="home-background">
-					${homeHeroes}
+					${homeHeroesHTML}
 				</main>
 			</div>
 			
