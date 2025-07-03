@@ -37,7 +37,7 @@ const homeHeroes = [
 	{
 		"image-desktop": "SA-home-desktop.jpg",
 		"image-mobile": "SA-home.jpg",
-		"caption": "Web Design - Freeage Productions"
+		"caption": "Presentation Design - Special Assembly"
 	},
 	{
 		"image-desktop": "skinandbones-home-desktop.jpg",
