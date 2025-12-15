@@ -34,6 +34,7 @@
 					"image-normal": "nba-slide-01.jpg",
 					"image-hover": "",
 					"video": "",
+					"embed": "",
 					"alt-text": "",
 					"desktop": true,
 					"mobile": true
@@ -44,6 +45,7 @@
 					"image-normal": "nba-slide-02.jpg",
 					"image-hover": "",
 					"video": "",
+					"embed": "",
 					"alt-text": "",
 					"desktop": true,
 					"mobile": true
@@ -54,6 +56,7 @@
 					"image-normal": "nba-slide-03.jpg",
 					"image-hover": "",
 					"video": "",
+					"embed": "",
 					"alt-text": "",
 					"desktop": true,
 					"mobile": true
@@ -64,6 +67,7 @@
 					"image-normal": "nba-slide-04.jpg",
 					"image-hover": "",
 					"video": "",
+					"embed": "",
 					"alt-text": "",
 					"desktop": true,
 					"mobile": true
@@ -74,6 +78,7 @@
 					"image-normal": "nba-slide-05.jpg",
 					"image-hover": "",
 					"video": "",
+					"embed": "",
 					"alt-text": "",
 					"desktop": true,
 					"mobile": true
@@ -84,6 +89,7 @@
 					"image-normal": "nba-slide-06.jpg",
 					"image-hover": "",
 					"video": "",
+					"embed": "",
 					"alt-text": "",
 					"desktop": true,
 					"mobile": true
@@ -94,6 +100,7 @@
 					"image-normal": "nba-slide-07.jpg",
 					"image-hover": "",
 					"video": "",
+					"embed": "",
 					"alt-text": "",
 					"desktop": true,
 					"mobile": true
@@ -104,6 +111,7 @@
 					"image-normal": "nba-slide-08.jpg",
 					"image-hover": "",
 					"video": "",
+					"embed": "",
 					"alt-text": "",
 					"desktop": true,
 					"mobile": true
@@ -114,6 +122,7 @@
 					"image-normal": "nba-slide-09.jpg",
 					"image-hover": "",
 					"video": "",
+					"embed": "",
 					"alt-text": "",
 					"desktop": true,
 					"mobile": true
@@ -124,6 +133,7 @@
 					"image-normal": "nba-slide-10.jpg",
 					"image-hover": "",
 					"video": "",
+					"embed": "",
 					"alt-text": "",
 					"desktop": true,
 					"mobile": true
@@ -134,6 +144,7 @@
 					"image-normal": "nba-slide-11.jpg",
 					"image-hover": "",
 					"video": "",
+					"embed": "",
 					"alt-text": "",
 					"desktop": true,
 					"mobile": true
@@ -144,6 +155,7 @@
 					"image-normal": "nba-slide-12.jpg",
 					"image-hover": "",
 					"video": "",
+					"embed": "",
 					"alt-text": "",
 					"desktop": true,
 					"mobile": true
@@ -154,6 +166,7 @@
 					"image-normal": "nba-slide-13.jpg",
 					"image-hover": "",
 					"video": "",
+					"embed": "",
 					"alt-text": "",
 					"desktop": true,
 					"mobile": true
@@ -164,12 +177,25 @@
 					"image-normal": "nba-slide-14.jpg",
 					"image-hover": "",
 					"video": "",
+					"embed": "",
 					"alt-text": "",
 					"desktop": true,
 					"mobile": true
 				}
 			]
-		]
+		],
+		"locked-active": false,
+		"locked-client": "",
+		"locked-project": "",
+		"locked-hero-desktop": {
+			"image": "",
+			"video": ""
+		},
+		"locked-hero-mobile": {
+			"image": "",
+			"video": ""
+		},
+		"locked-password": ""
 	},
 	{
 		"slug": "cinnabon",
@@ -209,6 +235,7 @@
 					"image-normal": "cinnabon-slide-01.jpg",
 					"image-hover": "",
 					"video": "",
+					"embed": "",
 					"alt-text": "",
 					"desktop": true,
 					"mobile": true
@@ -219,6 +246,7 @@
 					"image-normal": "cinnabon-slide-02.jpg",
 					"image-hover": "",
 					"video": "",
+					"embed": "",
 					"alt-text": "",
 					"desktop": true,
 					"mobile": true
@@ -229,6 +257,7 @@
 					"image-normal": "cinnabon-slide-03.jpg",
 					"image-hover": "",
 					"video": "",
+					"embed": "",
 					"alt-text": "",
 					"desktop": true,
 					"mobile": true
@@ -239,6 +268,7 @@
 					"image-normal": "cinnabon-slide-04.jpg",
 					"image-hover": "",
 					"video": "",
+					"embed": "",
 					"alt-text": "",
 					"desktop": true,
 					"mobile": true
@@ -249,6 +279,7 @@
 					"image-normal": "cinnabon-slide-05.jpg",
 					"image-hover": "",
 					"video": "",
+					"embed": "",
 					"alt-text": "",
 					"desktop": true,
 					"mobile": true
@@ -259,6 +290,7 @@
 					"image-normal": "cinnabon-slide-06.jpg",
 					"image-hover": "",
 					"video": "",
+					"embed": "",
 					"alt-text": "",
 					"desktop": true,
 					"mobile": true
@@ -269,6 +301,7 @@
 					"image-normal": "cinnabon-slide-07.jpg",
 					"image-hover": "",
 					"video": "",
+					"embed": "",
 					"alt-text": "",
 					"desktop": true,
 					"mobile": true
@@ -279,6 +312,7 @@
 					"image-normal": "cinnabon-slide-08.jpg",
 					"image-hover": "",
 					"video": "",
+					"embed": "",
 					"alt-text": "",
 					"desktop": true,
 					"mobile": true
@@ -289,6 +323,7 @@
 					"image-normal": "cinnabon-slide-09.jpg",
 					"image-hover": "",
 					"video": "",
+					"embed": "",
 					"alt-text": "",
 					"desktop": true,
 					"mobile": true
@@ -299,6 +334,7 @@
 					"image-normal": "cinnabon-slide-10.jpg",
 					"image-hover": "",
 					"video": "",
+					"embed": "",
 					"alt-text": "",
 					"desktop": true,
 					"mobile": true
@@ -309,6 +345,7 @@
 					"image-normal": "cinnabon-slide-11.jpg",
 					"image-hover": "",
 					"video": "",
+					"embed": "",
 					"alt-text": "",
 					"desktop": true,
 					"mobile": true
@@ -319,6 +356,7 @@
 					"image-normal": "cinnabon-slide-12.jpg",
 					"image-hover": "",
 					"video": "",
+					"embed": "",
 					"alt-text": "",
 					"desktop": true,
 					"mobile": true
@@ -329,6 +367,7 @@
 					"image-normal": "cinnabon-slide-13.jpg",
 					"image-hover": "",
 					"video": "",
+					"embed": "",
 					"alt-text": "",
 					"desktop": true,
 					"mobile": true
@@ -339,6 +378,7 @@
 					"image-normal": "cinnabon-slide-14.jpg",
 					"image-hover": "",
 					"video": "",
+					"embed": "",
 					"alt-text": "",
 					"desktop": true,
 					"mobile": true
@@ -349,6 +389,7 @@
 					"image-normal": "cinnabon-slide-15.jpg",
 					"image-hover": "",
 					"video": "",
+					"embed": "",
 					"alt-text": "",
 					"desktop": true,
 					"mobile": true
@@ -359,6 +400,7 @@
 					"image-normal": "cinnabon-slide-16.jpg",
 					"image-hover": "",
 					"video": "",
+					"embed": "",
 					"alt-text": "",
 					"desktop": true,
 					"mobile": true
@@ -369,6 +411,7 @@
 					"image-normal": "cinnabon-slide-17.jpg",
 					"image-hover": "",
 					"video": "",
+					"embed": "",
 					"alt-text": "",
 					"desktop": true,
 					"mobile": true
@@ -379,6 +422,7 @@
 					"image-normal": "cinnabon-slide-18.jpg",
 					"image-hover": "",
 					"video": "",
+					"embed": "",
 					"alt-text": "",
 					"desktop": true,
 					"mobile": true
@@ -389,6 +433,7 @@
 					"image-normal": "cinnabon-slide-19.jpg",
 					"image-hover": "",
 					"video": "",
+					"embed": "",
 					"alt-text": "",
 					"desktop": true,
 					"mobile": true
@@ -399,6 +444,7 @@
 					"image-normal": "cinnabon-slide-20.jpg",
 					"image-hover": "",
 					"video": "",
+					"embed": "",
 					"alt-text": "",
 					"desktop": true,
 					"mobile": true
@@ -409,6 +455,7 @@
 					"image-normal": "cinnabon-slide-21.jpg",
 					"image-hover": "",
 					"video": "",
+					"embed": "",
 					"alt-text": "",
 					"desktop": true,
 					"mobile": true
@@ -419,6 +466,7 @@
 					"image-normal": "cinnabon-slide-22.jpg",
 					"image-hover": "",
 					"video": "",
+					"embed": "",
 					"alt-text": "",
 					"desktop": true,
 					"mobile": true
@@ -429,6 +477,7 @@
 					"image-normal": "cinnabon-slide-23.jpg",
 					"image-hover": "",
 					"video": "",
+					"embed": "",
 					"alt-text": "",
 					"desktop": true,
 					"mobile": true
@@ -439,12 +488,25 @@
 					"image-normal": "cinnabon-slide-24.jpg",
 					"image-hover": "",
 					"video": "",
+					"embed": "",
 					"alt-text": "",
 					"desktop": true,
 					"mobile": true
 				}
 			]
-		]
+		],
+		"locked-active": false,
+		"locked-client": "",
+		"locked-project": "",
+		"locked-hero-desktop": {
+			"image": "",
+			"video": ""
+		},
+		"locked-hero-mobile": {
+			"image": "",
+			"video": ""
+		},
+		"locked-password": ""
 	},
 	{
 		"slug": "global-tech-company",
@@ -452,7 +514,7 @@
 		"display-name": "Apple",
 		"project": "WWDC 2025",
 		"year": "2025",
-		"heading": "For any occasion.",
+		"heading": "WWDC 2025",
 		"links": {},
 		"info": {
 			"left-column": {
@@ -481,26 +543,25 @@
 					"image-normal": "",
 					"image-hover": "",
 					"video": "",
-					"embed": "<iframe title='vimeo-player' src='https://player.vimeo.com/video/1146216711?h=92fd80fcf9' frameborder='0' referrerpolicy='strict-origin-when-cross-origin' allow='autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share'   allowfullscreen></iframe>",
+					"embed": "<iframe title='vimeo-player' src='https://player.vimeo.com/video/1146216711?h=92fd80fcf9' frameborder='0' referrerpolicy='strict-origin-when-cross-origin' allow='autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share' allowfullscreen></iframe>",
 					"alt-text": "",
 					"desktop": true,
 					"mobile": true
 				}
 			]
 		],
-		"locked": {
-			"locked-client": "Global Tech Company",
-			"locked-project": "Confidential Project",
-			"locked-hero-desktop": {
-				"image": "gtc-hero-desktop-locked.jpg",
-				"video": ""
-			},
-			"locked-hero-mobile": {
-				"image": "gtc-hero-mobile-locked.jpg",
-				"video": ""
-			},
-			"locked-password": "joshb123"
-		}
+		"locked-active": true,
+		"locked-client": "Global Tech Company",
+		"locked-project": "Confidential Project",
+		"locked-hero-desktop": {
+			"image": "gtc-hero-desktop-locked.jpg",
+			"video": ""
+		},
+		"locked-hero-mobile": {
+			"image": "gtc-hero-mobile-locked.jpg",
+			"video": ""
+		},
+		"locked-password": "joshb123"
 	},
 	{
 		"slug": "please-keep-well",
@@ -538,6 +599,7 @@
 					"image-normal": "pkw-tshirt-wiper-01.jpg",
 					"image-hover": "pkw-tshirt-wiper-02.jpg",
 					"video": "",
+					"embed": "",
 					"alt-text": "",
 					"desktop": true,
 					"mobile": true
@@ -546,6 +608,7 @@
 					"image-normal": "pkw-tshirt-back-01.jpg",
 					"image-hover": "pkw-tshirt-back-02.jpg",
 					"video": "",
+					"embed": "",
 					"alt-text": "",
 					"desktop": true,
 					"mobile": true
@@ -556,6 +619,7 @@
 					"image-normal": "pkw-tshirt-wall-01.jpg",
 					"image-hover": "pkw-tshirt-wall-02.jpg",
 					"video": "",
+					"embed": "",
 					"alt-text": "",
 					"desktop": true,
 					"mobile": false
@@ -564,6 +628,7 @@
 					"image-normal": "pkw-tshirt-wall-01-mobile.jpg",
 					"image-hover": "pkw-tshirt-wall-02-mobile.jpg",
 					"video": "",
+					"embed": "",
 					"alt-text": "",
 					"desktop": false,
 					"mobile": true
@@ -574,6 +639,7 @@
 					"image-normal": "pkw-tshirt-top-01.jpg",
 					"image-hover": "pkw-tshirt-top-02.jpg",
 					"video": "",
+					"embed": "",
 					"alt-text": "",
 					"desktop": true,
 					"mobile": true
@@ -582,6 +648,7 @@
 					"image-normal": "pkw-tshirt-car-01.jpg",
 					"image-hover": "pkw-tshirt-car-02.jpg",
 					"video": "",
+					"embed": "",
 					"alt-text": "",
 					"desktop": true,
 					"mobile": true
@@ -592,6 +659,7 @@
 					"image-normal": "pkw-tshirt-cacti-01.jpg",
 					"image-hover": "pkw-tshirt-cacti-02.jpg",
 					"video": "",
+					"embed": "",
 					"alt-text": "",
 					"desktop": true,
 					"mobile": false
@@ -600,12 +668,25 @@
 					"image-normal": "pkw-tshirt-cacti-01-mobile.jpg",
 					"image-hover": "pkw-tshirt-cacti-02-mobile.jpg",
 					"video": "",
+					"embed": "",
 					"alt-text": "",
 					"desktop": false,
 					"mobile": true
 				}
 			]
-		]
+		],
+		"locked-active": false,
+		"locked-client": "",
+		"locked-project": "",
+		"locked-hero-desktop": {
+			"image": "",
+			"video": ""
+		},
+		"locked-hero-mobile": {
+			"image": "",
+			"video": ""
+		},
+		"locked-password": ""
 	},
 	{
 		"slug": "the-butter-experience",
@@ -645,6 +726,7 @@
 					"image-normal": "butter-laptop.jpg",
 					"image-hover": "",
 					"video": "butter-laptop.mp4",
+					"embed": "",
 					"alt-text": "",
 					"desktop": true,
 					"mobile": true
@@ -655,6 +737,7 @@
 					"image-normal": "butter-model1.jpg",
 					"image-hover": "",
 					"video": "",
+					"embed": "",
 					"alt-text": "",
 					"desktop": true,
 					"mobile": false
@@ -663,6 +746,7 @@
 					"image-normal": "butter-model2.jpg",
 					"image-hover": "",
 					"video": "",
+					"embed": "",
 					"alt-text": "",
 					"desktop": true,
 					"mobile": false
@@ -671,6 +755,7 @@
 					"image-normal": "butter-model3.jpg",
 					"image-hover": "",
 					"video": "",
+					"embed": "",
 					"alt-text": "",
 					"desktop": true,
 					"mobile": false
@@ -679,6 +764,7 @@
 					"image-normal": "butter-model4.jpg",
 					"image-hover": "",
 					"video": "",
+					"embed": "",
 					"alt-text": "",
 					"desktop": true,
 					"mobile": false
@@ -687,6 +773,7 @@
 					"image-normal": "butter-model-all.gif",
 					"image-hover": "",
 					"video": "",
+					"embed": "",
 					"alt-text": "",
 					"desktop": false,
 					"mobile": true
@@ -697,6 +784,7 @@
 					"image-normal": "butter-knife.gif",
 					"image-hover": "",
 					"video": "",
+					"embed": "",
 					"alt-text": "",
 					"desktop": true,
 					"mobile": true
@@ -705,6 +793,7 @@
 					"image-normal": "butter-logo-01.jpg",
 					"image-hover": "butter-logo-02.jpg",
 					"video": "",
+					"embed": "",
 					"alt-text": "",
 					"desktop": true,
 					"mobile": true
@@ -715,6 +804,7 @@
 					"image-normal": "butter-model.jpg",
 					"image-hover": "",
 					"video": "",
+					"embed": "",
 					"alt-text": "",
 					"desktop": true,
 					"mobile": true
@@ -723,6 +813,7 @@
 					"image-normal": "butter-phone.jpg",
 					"image-hover": "",
 					"video": "butter-phone.mp4",
+					"embed": "",
 					"alt-text": "",
 					"desktop": true,
 					"mobile": true
@@ -733,6 +824,7 @@
 					"image-normal": "butter-menu.jpg",
 					"image-hover": "",
 					"video": "",
+					"embed": "",
 					"alt-text": "",
 					"desktop": true,
 					"mobile": false
@@ -741,12 +833,25 @@
 					"image-normal": "butter-menu-mobile.jpg",
 					"image-hover": "",
 					"video": "",
+					"embed": "",
 					"alt-text": "",
 					"desktop": false,
 					"mobile": true
 				}
 			]
-		]
+		],
+		"locked-active": false,
+		"locked-client": "",
+		"locked-project": "",
+		"locked-hero-desktop": {
+			"image": "",
+			"video": ""
+		},
+		"locked-hero-mobile": {
+			"image": "",
+			"video": ""
+		},
+		"locked-password": ""
 	},
 	{
 		"slug": "skin-and-bones",
@@ -784,6 +889,7 @@
 					"image-normal": "skinandbones-bread.gif",
 					"image-hover": "",
 					"video": "",
+					"embed": "",
 					"alt-text": "",
 					"desktop": true,
 					"mobile": true
@@ -792,6 +898,7 @@
 					"image-normal": "skinandbones-heart.gif",
 					"image-hover": "",
 					"video": "",
+					"embed": "",
 					"alt-text": "",
 					"desktop": true,
 					"mobile": true
@@ -802,6 +909,7 @@
 					"image-normal": "skinandbones-beer.gif",
 					"image-hover": "",
 					"video": "",
+					"embed": "",
 					"alt-text": "",
 					"desktop": true,
 					"mobile": true
@@ -810,6 +918,7 @@
 					"image-normal": "skinandbones-car.gif",
 					"image-hover": "",
 					"video": "",
+					"embed": "",
 					"alt-text": "",
 					"desktop": true,
 					"mobile": true
@@ -820,6 +929,7 @@
 					"image-normal": "skinandbones-basketball.gif",
 					"image-hover": "",
 					"video": "",
+					"embed": "",
 					"alt-text": "",
 					"desktop": true,
 					"mobile": true
@@ -828,6 +938,7 @@
 					"image-normal": "skinandbones-coffee.gif",
 					"image-hover": "",
 					"video": "",
+					"embed": "",
 					"alt-text": "",
 					"desktop": true,
 					"mobile": true
@@ -838,6 +949,7 @@
 					"image-normal": "skinandbones-shoe.gif",
 					"image-hover": "",
 					"video": "",
+					"embed": "",
 					"alt-text": "",
 					"desktop": true,
 					"mobile": true
@@ -846,12 +958,25 @@
 					"image-normal": "skinandbones-tabasco.gif",
 					"image-hover": "",
 					"video": "",
+					"embed": "",
 					"alt-text": "",
 					"desktop": true,
 					"mobile": true
 				}
 			]
-		]
+		],
+		"locked-active": false,
+		"locked-client": "",
+		"locked-project": "",
+		"locked-hero-desktop": {
+			"image": "",
+			"video": ""
+		},
+		"locked-hero-mobile": {
+			"image": "",
+			"video": ""
+		},
+		"locked-password": ""
 	},
 	{
 		"slug": "sharpie",
@@ -888,6 +1013,7 @@
 					"image-normal": "sharpie-window.jpg",
 					"image-hover": "",
 					"video": "",
+					"embed": "",
 					"alt-text": "",
 					"desktop": true,
 					"mobile": true
@@ -896,6 +1022,7 @@
 					"image-normal": "sharpie-wall.jpg",
 					"image-hover": "",
 					"video": "",
+					"embed": "",
 					"alt-text": "",
 					"desktop": true,
 					"mobile": true
@@ -906,6 +1033,7 @@
 					"image-normal": "sharpie-billboard.jpg",
 					"image-hover": "",
 					"video": "",
+					"embed": "",
 					"alt-text": "",
 					"desktop": true,
 					"mobile": true
@@ -916,6 +1044,7 @@
 					"image-normal": "sharpie-columns.jpg",
 					"image-hover": "",
 					"video": "",
+					"embed": "",
 					"alt-text": "",
 					"desktop": true,
 					"mobile": true
@@ -924,12 +1053,25 @@
 					"image-normal": "sharpie-poster.jpg",
 					"image-hover": "",
 					"video": "",
+					"embed": "",
 					"alt-text": "",
 					"desktop": true,
 					"mobile": true
 				}
 			]
-		]
+		],
+		"locked-active": false,
+		"locked-client": "",
+		"locked-project": "",
+		"locked-hero-desktop": {
+			"image": "",
+			"video": ""
+		},
+		"locked-hero-mobile": {
+			"image": "",
+			"video": ""
+		},
+		"locked-password": ""
 	},
 	{
 		"slug": "jack-and-jill-health",
@@ -968,6 +1110,7 @@
 					"image-normal": "jack-and-jill-spray.jpg",
 					"image-hover": "",
 					"video": "",
+					"embed": "",
 					"alt-text": "",
 					"desktop": true,
 					"mobile": true
@@ -976,6 +1119,7 @@
 					"image-normal": "jack-and-jill-dropper-trio.jpg",
 					"image-hover": "",
 					"video": "",
+					"embed": "",
 					"alt-text": "",
 					"desktop": true,
 					"mobile": true
@@ -986,6 +1130,7 @@
 					"image-normal": "jack-and-jill-spray-trio.jpg",
 					"image-hover": "",
 					"video": "",
+					"embed": "",
 					"alt-text": "",
 					"desktop": true,
 					"mobile": true
@@ -994,6 +1139,7 @@
 					"image-normal": "jack-and-jill-box-purple.jpg",
 					"image-hover": "",
 					"video": "",
+					"embed": "",
 					"alt-text": "",
 					"desktop": true,
 					"mobile": true
@@ -1004,6 +1150,7 @@
 					"image-normal": "jack-and-jill-box-blue.jpg",
 					"image-hover": "",
 					"video": "",
+					"embed": "",
 					"alt-text": "",
 					"desktop": true,
 					"mobile": true
@@ -1012,12 +1159,25 @@
 					"image-normal": "jack-and-jill-various.jpg",
 					"image-hover": "",
 					"video": "",
+					"embed": "",
 					"alt-text": "",
 					"desktop": true,
 					"mobile": true
 				}
 			]
-		]
+		],
+		"locked-active": false,
+		"locked-client": "",
+		"locked-project": "",
+		"locked-hero-desktop": {
+			"image": "",
+			"video": ""
+		},
+		"locked-hero-mobile": {
+			"image": "",
+			"video": ""
+		},
+		"locked-password": ""
 	},
 	{
 		"slug": "sampled-work",
@@ -1054,6 +1214,7 @@
 					"image-normal": "various-kitkat.jpg",
 					"image-hover": "",
 					"video": "various-kitkat.mp4",
+					"embed": "",
 					"alt-text": "",
 					"desktop": true,
 					"mobile": true
@@ -1064,6 +1225,7 @@
 					"image-normal": "various-maddies-story.jpg",
 					"image-hover": "",
 					"video": "various-maddies-story.mp4",
+					"embed": "",
 					"alt-text": "",
 					"desktop": true,
 					"mobile": true
@@ -1074,6 +1236,7 @@
 					"image-normal": "various-itch.jpg",
 					"image-hover": "",
 					"video": "various-itch.mp4",
+					"embed": "",
 					"alt-text": "",
 					"desktop": true,
 					"mobile": true
@@ -1084,6 +1247,7 @@
 					"image-normal": "various-venmo.jpg",
 					"image-hover": "",
 					"video": "various-venmo.mp4",
+					"embed": "",
 					"alt-text": "",
 					"desktop": true,
 					"mobile": true
@@ -1094,6 +1258,7 @@
 					"image-normal": "various-bronco.jpg",
 					"image-hover": "",
 					"video": "various-bronco.mp4",
+					"embed": "",
 					"alt-text": "",
 					"desktop": true,
 					"mobile": true
@@ -1104,6 +1269,7 @@
 					"image-normal": "various-spindrift.jpg",
 					"image-hover": "",
 					"video": "various-spindrift.mp4",
+					"embed": "",
 					"alt-text": "",
 					"desktop": true,
 					"mobile": true
@@ -1114,6 +1280,7 @@
 					"image-normal": "various-dink-dunk.jpg",
 					"image-hover": "",
 					"video": "various-dink-dunk.mp4",
+					"embed": "",
 					"alt-text": "",
 					"desktop": true,
 					"mobile": true
@@ -1124,11 +1291,24 @@
 					"image-normal": "various-nfl.jpg",
 					"image-hover": "",
 					"video": "various-nfl.mp4",
+					"embed": "",
 					"alt-text": "",
 					"desktop": true,
 					"mobile": true
 				}
 			]
-		]
+		],
+		"locked-active": false,
+		"locked-client": "",
+		"locked-project": "",
+		"locked-hero-desktop": {
+			"image": "",
+			"video": ""
+		},
+		"locked-hero-mobile": {
+			"image": "",
+			"video": ""
+		},
+		"locked-password": ""
 	}
 ]

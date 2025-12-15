@@ -140,11 +140,11 @@ function generateHTML() {
 	for (let project of projects) {
 
 		// Add to work index
-		if (project["locked"] != undefined) {
+		if (project["locked-active"] == true) {
 			workIndex += `
 				<a class="work-projects-link" href="/work/${project['slug']}/" data-filters="${project['filters']}" data-project="${project['slug']}">
-					<span class="work-projects-link-client">${project['locked']['locked-client']}</span>
-					<span class="work-projects-link-desc">${project['locked']['locked-project']}</span>
+					<span class="work-projects-link-client">${project['locked-client']}</span>
+					<span class="work-projects-link-desc">${project['locked-project']}</span>
 					<span class="work-projects-link-tags">${project['tags']}</span>
 					<span class="work-projects-link-date">${project['year']}</span>
 				</a>
@@ -178,7 +178,7 @@ function generateHTML() {
 		for (let row of project['media']) {
 			let rowHTML = '';
 			for (let mediaData of row) {
-				if (mediaData['embed'] != undefined && mediaData['embed'] != "") {
+				if (mediaData['embed'] != "") {
 					rowHTML += mediaData['embed'];
 				} else if (mediaData['video'] != "") {
 					rowHTML += `
@@ -237,27 +237,27 @@ function generateHTML() {
 		if (projectIndex == 0) {
 			workHeroActive = 1;
 		}
-		if (project['locked'] != undefined) {
-			if (project['locked']['locked-hero-desktop']['video'].length > 0) {
+		if (project["locked-active"] == true) {
+			if (project['locked-hero-desktop']['video'].length > 0) {
 				workHeroDesktop = `
-					<video autoplay muted loop playsinline disableRemotePlayback class="project-header-thumbnail-desktop" poster="/work/${project['slug']}/${project['locked']['locked-hero-desktop']['image']}">
-						<source src="/work/${project['slug']}/${project['locked']['locked-hero-desktop']['video']}">
+					<video autoplay muted loop playsinline disableRemotePlayback class="project-header-thumbnail-desktop" poster="/work/${project['slug']}/${project['locked-hero-desktop']['image']}">
+						<source src="/work/${project['slug']}/${project['locked-hero-desktop']['video']}">
 					</video>
 				`;
 			} else {
 				workHeroDesktop = `
-					<img class="project-header-thumbnail-desktop" src="/work/${project['slug']}/${project['locked']['locked-hero-desktop']['image']}">
+					<img class="project-header-thumbnail-desktop" src="/work/${project['slug']}/${project['locked-hero-desktop']['image']}">
 				`;
 			}
-			if (project['locked']['locked-hero-mobile']['video'].length > 0) {
+			if (project['locked-hero-mobile']['video'].length > 0) {
 				workHeroMobile = `
-					<video autoplay muted loop playsinline disableRemotePlayback class="project-header-thumbnail-mobile" poster="/work/${project['slug']}/${project['locked']['locked-hero-mobile']['image']}">
-						<source src="/work/${project['slug']}/${project['locked']['locked-hero-mobile']['video']}">
+					<video autoplay muted loop playsinline disableRemotePlayback class="project-header-thumbnail-mobile" poster="/work/${project['slug']}/${project['locked-hero-mobile']['image']}">
+						<source src="/work/${project['slug']}/${project['locked-hero-mobile']['video']}">
 					</video>
 				`;
 			} else {
 				workHeroMobile = `
-					<img class="project-header-thumbnail-mobile" src="/work/${project['slug']}/${project['locked']['locked-hero-mobile']['image']}">
+					<img class="project-header-thumbnail-mobile" src="/work/${project['slug']}/${project['locked-hero-mobile']['image']}">
 				`;
 			}
 		} else {
@@ -324,7 +324,7 @@ function generateHTML() {
 		let lockedScreen = '';
 		let lockedClass = '';
 		let lockedScript = '';
-		if (project['locked'] != undefined) {
+		if (project["locked-active"] == true) {
 			lockedScreen += `
 				<div class="password">
 					<h1 class="password-heading">Locked Page</h1>
@@ -343,7 +343,7 @@ function generateHTML() {
 							check();
 						}
 					});
-					let answer = "${project['locked']['locked-password']}";
+					let answer = "${project['locked-password']}";
 					function check() {
 						if (field.value == answer) {
 							let passwordScreen = document.querySelector('.password');
