@@ -13,7 +13,8 @@ function toggleMode() {
 		mode = 'light';
 		localStorage.setItem('mode', 'light');
 	}
-	document.body.classList = [];
+	document.body.classList.remove('light');
+	document.body.classList.remove('dark');
 	document.body.classList.add(mode);
 }
 function detectMode() {
@@ -22,7 +23,8 @@ function detectMode() {
 		mode = 'light';
 		localStorage.setItem('mode', 'light');
 	}
-	document.body.classList = [];
+	document.body.classList.remove('light');
+	document.body.classList.remove('dark');
 	document.body.classList.add(mode);
 }
 detectMode();

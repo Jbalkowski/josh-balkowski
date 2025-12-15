@@ -24,9 +24,8 @@
 				</style>
 				<script src="https://cdn.jsdelivr.net/npm/gsap@3.13.0/dist/gsap.min.js"></script>
 				<script src="https://cdn.jsdelivr.net/npm/gsap@3.13.0/dist/ScrollTrigger.min.js"></script>
-				<!-- Site developed by No Replica! https://noreplica.com/ -->
 			</head>
-			<body class="light">
+			<body class="light ">
 				<div class="project">
 					<a class="logo" href="/">Josh Balkowski</a>
 					<nav class="nav">
@@ -35,8 +34,10 @@
 					</nav>
 					<button class="mode-toggle mode-toggle-alt" onclick="toggleMode();"></button>
 					<a class="project-next" href="/work/sampled-work/">Next ></a>
+
+					
 			
-					<header class="project-header">
+					<header class="project-header" data-active="0">
 						<div class="project-header-thumbnail">
 							
 				<img class="project-header-thumbnail-desktop" src="jack-and-jill-hero.jpg">
@@ -51,24 +52,31 @@
 								<h1 class="project-animate project-header-client-heading">Medical, made personal.</h1>
 								
 							</div>
-							<button class="project-header-toggle" onclick="toggleProjectMobile();" data-active="0">
+							<button class="project-header-toggle" onclick="toggleProjectMobile();">
 								<svg viewBox="0 0 15 9">
 									<path d="M7.5,9c-.28,0-.54-.12-.73-.32L.27,1.68C-.11,1.28-.09.64.32.27c.4-.38,1.04-.35,1.41.05l5.77,6.21L13.27.32c.37-.41,1.01-.43,1.41-.05.4.38.43,1.01.05,1.41l-6.5,7c-.19.2-.45.32-.73.32Z"/>
 								</svg>
 							</button>
-							<div class="project-header-info" data-active="0">
-								<h2 class="project-animate project-header-info-heading">Medical Packaging</h2>
-								<p class="project-animate project-header-info-desc">
-									Jack & Jill reimagined medical packaging for the direct-to-consumer space balancing regulatory constraints with an inviting, shelf-worthy design. For both sub-brands, the goal was the same: to soften the clinical, elevate the everyday, and create an unboxing experience that felt as considered as the care inside. This project laid the foundation for a more approachable, consumer-friendly experience and created a starting point for building a brand people can relate to on a personal level.
-								</p>
-							</div>
-							<div class="project-header-tags" data-active="0">
+							<div class="project-header-info-column">
 								
-					<div class="project-header-tags-section">
-						<h2 class="project-animate project-header-tags-heading">Services</h2>
-						<p class="project-animate project-header-tags-item">Branding</p><p class="project-animate project-header-tags-item">Packaging Design</p>
-					</div>
-				
+				<div class="project-header-info-section">
+					<h2 class="project-animate project-header-info-heading">Challenge</h2>
+					<p class="project-animate project-header-info-desc">In direct-to-consumer health, packaging design is secondary to medical information. Jack & Jill also had to meet strict regulatory guidelines that dictated what information must appear at each level of packaging. The goal was to uphold those standards while creating a system that looked and felt like their brand, with packaging that could sit comfortably beside cosmetic products on the bathroom shelf.</p>
+				</div>
+			
+				<div class="project-header-info-section">
+					<h2 class="project-animate project-header-info-heading">Outcome</h2>
+					<p class="project-animate project-header-info-desc">The new design system met strict regulatory requirements while giving Jack & Jill the polish of a consumer brand. It built trust by communicating legitimacy and safety in a regulated space, increased clarity through a hierarchy and messaging system that reduced confusion at the point of decision, and elevated positioning by creating a cohesive identity that inspired loyalty among patients and confidence in the brand. The result was a scalable framework that worked seamlessly across prescription, OTC, and vitamin lines, enabling Jack & Jill to compete as a credible player in the wellness market.</p>
+				</div>
+			
+							</div>
+							<div class="project-header-info-column">
+								
+				<div class="project-header-info-section">
+					<h2 class="project-animate project-header-info-heading">My Role</h2>
+					<p class="project-animate project-header-info-desc">I directed creative across brand and packaging, redesigning primary, secondary, and tertiary systems from the ground up. My role was to define the line between regulatory requirements and brand identity across prescription products, OTC lines, and vitamin packs. I worked closely with the pharmacy team to uphold strict compliance standards while still creating a design system that felt approachable and consumer-friendly. The framework was built to scale as Jack & Jill grew, ensuring consistency across product lines and future expansions. This process sharpened my ability to design for regulated industries where clarity and trust are paramount, to translate constraints into creative systems that support business growth, and to elevate consumer perception through packaging that connects brand voice with real-world compliance. These same skills now apply to MedTech, bio, and health companies looking to move from technical credibility to broad public adoption.</p>
+				</div>
+			
 							</div>
 							<div class="project-animate project-header-date">2023</div>
 						</div>
@@ -93,6 +101,8 @@
 				
 				<script src="/script.js"></script>
 				<script src="/project.js"></script>
+				
 			</body>
 			</html>
+			<!-- Site by No Replica: https://noreplica.com/ -->
 		

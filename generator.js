@@ -3,69 +3,67 @@
 // Edit this!
 // ——————————————————————————————————————————————————————
 
-const homeHeroes = [
+const homeHeroImages = [
 	{
-		"image-desktop": "butter-home-desktop-2.jpg",
-		"image-mobile": "butter-home-2.jpg",
-		"caption": "Branding - The Butter Experience"
-	},
-	{
-		"image-desktop": "sharpie-home-desktop.jpg",
-		"image-mobile": "sharpie-home.jpg",
+		"desktop-image": "/assets/home/sharpie-desktop.jpg",
+		"mobile-image": "/assets/home/sharpie-mobile.jpeg",
 		"caption": "Art Direction - Permanent Change"
 	},
 	{
-		"image-desktop": "AS-home-desktop.jpg",
-		"image-mobile": "AS-home.jpg",
+		"desktop-image": "/assets/home/absolute-treat-desktop.jpg",
+		"mobile-image": "/assets/home/absolute-treat-mobile.jpeg",
 		"caption": "Web Design - Absolute Treat"
 	},
 	{
-		"image-desktop": "pkw-home-desktop.jpg",
-		"image-mobile": "pkw-home.jpg",
-		"caption": "Design - Please Keep Well"
+		"desktop-image": "/assets/home/butter-desktop.jpg",
+		"mobile-image": "/assets/home/butter-mobile.jpeg",
+		"caption": "Branding - The Butter Experience"
 	},
 	{
-		"image-desktop": "Screen-home-desktop.jpg",
-		"image-mobile": "Screen-home.jpg",
-		"caption": "Screen Print Design - Various"
+		"desktop-image": "/assets/home/screen-print-desktop.jpg",
+		"mobile-image": "/assets/home/screen-print-mobile.jpeg",
+		"caption": "Screen Print Design - <em>Various</em>"
 	},
 	{
-		"image-desktop": "jack-and-jill-home-desktop.jpg",
-		"image-mobile": "jack-and-jill-home.jpg",
+		"desktop-image": "/assets/home/jack-and-jill-desktop.jpg",
+		"mobile-image": "/assets/home/jack-and-jill-mobile.jpeg",
 		"caption": "Design - Jack & Jill Health"
-	},	
+	},
 	{
-		"image-desktop": "SA-home-desktop.jpg",
-		"image-mobile": "SA-home.jpg",
+		"desktop-image": "/assets/home/special-assembly-desktop.jpg",
+		"mobile-image": "/assets/home/special-assembly-mobile.jpeg",
 		"caption": "Presentation Design - Special Assembly"
 	},
 	{
-		"image-desktop": "skinandbones-home-desktop.jpg",
-		"image-mobile": "skinandbones-home.jpg",
-		"caption": "Design - Valentines Matchboxes"
+		"desktop-image": "/assets/home/please-keep-well-desktop.jpg",
+		"mobile-image": "/assets/home/please-keep-well-mobile.jpeg",
+		"caption": "Design - Please Keep Well"
 	},
 	{
-		"image-desktop": "FA-home-desktop.jpg",
-		"image-mobile": "FA-home.jpg",
+		"desktop-image": "/assets/home/freeage-desktop.jpg",
+		"mobile-image": "/assets/home/freeage-mobile.jpeg",
 		"caption": "Web Design - Freeage Productions"
 	},
 	{
-		"image-desktop": "Bout-home-desktop.jpg",
-		"image-mobile": "bout-home.jpg",
+		"desktop-image": "/assets/home/matchboxes-desktop.jpg",
+		"mobile-image": "/assets/home/matchboxes-mobile.jpeg",
+		"caption": "Design - Valentines Matchboxes"
+	},
+	{
+		"desktop-image": "/assets/home/bout-desktop.jpg",
+		"mobile-image": "/assets/home/bout-mobile.jpeg",
 		"caption": "Lighting - Bout"
-	}
+	},
 ]
 
 const workFilters = [
 	"Branding",
 	"Art Direction",
 	"Design",
-	"Treatments"
+	"Presentation"
 ]
 
-const infoHeading = `
-	Josh Balkowski is a Toronto based Art&nbsp;Director and Designer.
-`;
+const infoHeading = `People call me when big ideas need to land with the right people.`;
 
 const infoHeadshot = {
 	"desktop": "headshot-desktop.jpg",
@@ -73,45 +71,43 @@ const infoHeadshot = {
 }
 
 const infoContentColumn1 = `
-	<h2>About</h2>
+	<h2>Ways to Work Together</h2>
 	<p>
-		I’ve led creative teams, co-founded a modest design agency, and collaborated with brands, production companies, startups, studios, and clients, of all shapes and sizes.
+		If you’re looking to launch new products with clarity and trust, I design presentations and decks that make the complex legible.
 	</p>
 	<p>
-		Whether building brand identities, designing systems processes, researching for presentations, or developing campaigns, my approach is always the same; align concepts with business strategy, to connect thoughtful ideas to tangible outcomes.
+		If you need to win competitive pitches, I create treatments that stand up under pressure and give directors the edge.
 	</p>
 	<p>
-		I like helping ideas find their shape. I love clarity. I care about making work that’s both thoughtful and impactful to brands, people, and their communities.
+		If strategy needs to scale into creative, I build narrative frameworks that align teams and audiences.
+	</p>
+	<p>
+		If storytelling needs to stay sharp under pressure, I design systems and templates that scale output without losing impact. 
 	</p>
 `;
 
 const infoContentColumn2 = `
 	<h2>Recently</h2>
 	<p>
-		Made a fun website for a friend’s band. Designed some packaging for incense sticks. Just wrapped work on a disclosed project with an incredible team as a Sr. Designer for Apple.
+		Worked with Apple as a Senior Designer on a confidential project. Supported agencies and production companies on high-stakes presentations and treatments for global brands and directors.
 	</p>
 
 	<h2>Currently</h2>
 	<p>
-		Consulting for a mental-health clinic to create systems that encourage inter-organization communication and establish new processes, that increase efficiency around time consuming practices. Also, I’m updating my onboarding materials for new clients.
+		Developing a nostalgia-driven NBA concept as a creative venture in sports storytelling and brand-building, while also developing new speculative projects that push my end-to-end creative practice.
 	</p>
 
 	<h2>Open To</h2>
 	<p>
-		Art direction, brand identity, and senior design roles or contracts within agencies or studios. But, always open to chat about interesting projects and ideas in other categories.
+		Open to senior design and art direction roles that bring clarity to complex ideas, sharpen storytelling, and scale creative systems across brand, presentation, and narrative design.
 	</p>
 `;
 
 const infoContentColumn3 = `
-	<h2>Services</h2>
-	<ul>
-		<li>Art Direction</li>
-		<li>Branding</li>
-		<li>Web Design</li>
-		<li>Packaging Design</li>
-		<li>Presentation Design</li>
-		<li>Apparel Design</li>
-	</ul>
+	<h2>About</h2>
+	<p>
+		I help teams turn complex, ambiguous ideas into clear stories and visuals that win trust and buy-in. My sweet spot is the high-stakes middle: where strategy needs to be translated into clear creative, and where creative has to deliver results without losing clarity or impact. I’ve done this for global brands, creative agencies, and independent teams alike — from shaping a keynote deck for a large tech company, to building a sales narrative for enterprise SaaS, to developing treatment systems for directors. Across every project, my focus is the same: bring clarity, collaboration, and creative impact that lasts.
+	</p>
 `;
 
 const meta = `
@@ -144,14 +140,25 @@ function generateHTML() {
 	for (let project of projects) {
 
 		// Add to work index
-		workIndex += `
-			<a class="work-projects-link" href="/work/${project['slug']}/" data-filters="${project['filters']}" data-project="${project['slug']}">
-				<span class="work-projects-link-client">${project['display-name']}</span>
-				<span class="work-projects-link-desc">${project['project']}</span>
-				<span class="work-projects-link-tags">${project['tags']}</span>
-				<span class="work-projects-link-date">${project['year']}</span>
-			</a>
-		`;
+		if (project["locked"] != undefined) {
+			workIndex += `
+				<a class="work-projects-link" href="/work/${project['slug']}/" data-filters="${project['filters']}" data-project="${project['slug']}">
+					<span class="work-projects-link-client">${project['locked']['locked-client']}</span>
+					<span class="work-projects-link-desc">${project['locked']['locked-project']}</span>
+					<span class="work-projects-link-tags">${project['tags']}</span>
+					<span class="work-projects-link-date">${project['year']}</span>
+				</a>
+			`;
+		} else {
+			workIndex += `
+				<a class="work-projects-link" href="/work/${project['slug']}/" data-filters="${project['filters']}" data-project="${project['slug']}">
+					<span class="work-projects-link-client">${project['display-name']}</span>
+					<span class="work-projects-link-desc">${project['project']}</span>
+					<span class="work-projects-link-tags">${project['tags']}</span>
+					<span class="work-projects-link-date">${project['year']}</span>
+				</a>
+			`;
+		}
 
 		// Project links
 		let projectLinks = "";
@@ -166,29 +173,14 @@ function generateHTML() {
 			`;
 		}
 
-		// Project tags
-		let projectTags = "";
-		if (Object.keys(project['info-categories']).length > 0) {
-			for (let sectionName of Object.keys(project['info-categories'])) {
-				let projectTagsSection = "";
-				for (let tag of project['info-categories'][sectionName]) {
-					projectTagsSection += `<p class="project-animate project-header-tags-item">${tag}</p>`;
-				}
-				projectTags += `
-					<div class="project-header-tags-section">
-						<h2 class="project-animate project-header-tags-heading">${sectionName}</h2>
-						${projectTagsSection}
-					</div>
-				`;
-			}
-		}
-
 		// Project media
 		let projectMedia = '';
 		for (let row of project['media']) {
 			let rowHTML = '';
 			for (let mediaData of row) {
-				if (mediaData['video'] != "") {
+				if (mediaData['embed'] != undefined && mediaData['embed'] != "") {
+					rowHTML += mediaData['embed'];
+				} else if (mediaData['video'] != "") {
 					rowHTML += `
 						<video autoplay muted loop playsinline disableRemotePlayback class="project-animate project-main-item-video" poster="${mediaData['image-normal']}" data-desktop="${mediaData['desktop']}" data-mobile="${mediaData['mobile']}">
 							<source src="${mediaData['video']}">
@@ -245,27 +237,52 @@ function generateHTML() {
 		if (projectIndex == 0) {
 			workHeroActive = 1;
 		}
-		if (project['hero-desktop']['video'].length > 0) {
-			workHeroDesktop = `
-				<video autoplay muted loop playsinline disableRemotePlayback class="work-hero-media work-hero-desktop" poster="/work/${project['slug']}/${project['hero-desktop']['image']}">
-					<source src="/work/${project['slug']}/${project['hero-desktop']['video']}">
-				</video>
-			`;
+		if (project['locked'] != undefined) {
+			if (project['locked']['locked-hero-desktop']['video'].length > 0) {
+				workHeroDesktop = `
+					<video autoplay muted loop playsinline disableRemotePlayback class="project-header-thumbnail-desktop" poster="/work/${project['slug']}/${project['locked']['locked-hero-desktop']['image']}">
+						<source src="/work/${project['slug']}/${project['locked']['locked-hero-desktop']['video']}">
+					</video>
+				`;
+			} else {
+				workHeroDesktop = `
+					<img class="project-header-thumbnail-desktop" src="/work/${project['slug']}/${project['locked']['locked-hero-desktop']['image']}">
+				`;
+			}
+			if (project['locked']['locked-hero-mobile']['video'].length > 0) {
+				workHeroMobile = `
+					<video autoplay muted loop playsinline disableRemotePlayback class="project-header-thumbnail-mobile" poster="/work/${project['slug']}/${project['locked']['locked-hero-mobile']['image']}">
+						<source src="/work/${project['slug']}/${project['locked']['locked-hero-mobile']['video']}">
+					</video>
+				`;
+			} else {
+				workHeroMobile = `
+					<img class="project-header-thumbnail-mobile" src="/work/${project['slug']}/${project['locked']['locked-hero-mobile']['image']}">
+				`;
+			}
 		} else {
-			workHeroDesktop = `
-				<img class="work-hero-media work-hero-desktop" src="/work/${project['slug']}/${project['hero-desktop']['image']}">
-			`;
-		}
-		if (project['hero-mobile']['video'].length > 0) {
-			workHeroMobile = `
-				<video autoplay muted loop playsinline disableRemotePlayback class="work-hero-media work-hero-mobile" poster="/work/${project['slug']}/${project['hero-mobile']['image']}">
-					<source src="/work/${project['slug']}/${project['hero-mobile']['video']}">
-				</video>
-			`;
-		} else {
-			workHeroMobile = `
-				<img class="work-hero-media work-hero-mobile" src="/work/${project['slug']}/${project['hero-mobile']['image']}">
-			`;
+			if (project['hero-desktop']['video'].length > 0) {
+				workHeroDesktop = `
+					<video autoplay muted loop playsinline disableRemotePlayback class="work-hero-media work-hero-desktop" poster="/work/${project['slug']}/${project['hero-desktop']['image']}">
+						<source src="/work/${project['slug']}/${project['hero-desktop']['video']}">
+					</video>
+				`;
+			} else {
+				workHeroDesktop = `
+					<img class="work-hero-media work-hero-desktop" src="/work/${project['slug']}/${project['hero-desktop']['image']}">
+				`;
+			}
+			if (project['hero-mobile']['video'].length > 0) {
+				workHeroMobile = `
+					<video autoplay muted loop playsinline disableRemotePlayback class="work-hero-media work-hero-mobile" poster="/work/${project['slug']}/${project['hero-mobile']['image']}">
+						<source src="/work/${project['slug']}/${project['hero-mobile']['video']}">
+					</video>
+				`;
+			} else {
+				workHeroMobile = `
+					<img class="work-hero-media work-hero-mobile" src="/work/${project['slug']}/${project['hero-mobile']['image']}">
+				`;
+			}
 		}
 		workHeroes += `
 			<div class="work-hero" data-project="${project['slug']}" data-active="${workHeroActive}">
@@ -274,12 +291,70 @@ function generateHTML() {
 			</div>
 		`;
 
+		// Project description/info
+		let projectInfoLeft = project['info']['left-column'];
+		let projectInfoRight = project['info']['right-column'];
+		let infoLeft = '';
+		let infoRight = '';
+		for (let section in projectInfoLeft) {
+			infoLeft += `
+				<div class="project-header-info-section">
+					<h2 class="project-animate project-header-info-heading">${section}</h2>
+					<p class="project-animate project-header-info-desc">${projectInfoLeft[section]}</p>
+				</div>
+			`;
+		}
+		for (let section in projectInfoRight) {
+			infoRight += `
+				<div class="project-header-info-section">
+					<h2 class="project-animate project-header-info-heading">${section}</h2>
+					<p class="project-animate project-header-info-desc">${projectInfoRight[section]}</p>
+				</div>
+			`;
+		}
+
 		// Next project
 		projectIndex++;
 		if (projectIndex >= projects.length) {
 			projectIndex = 0;
 		}
 		let nextProject = projects[projectIndex]['slug'];
+
+		// Locked screen
+		let lockedScreen = '';
+		let lockedClass = '';
+		let lockedScript = '';
+		if (project['locked'] != undefined) {
+			lockedScreen += `
+				<div class="password">
+					<h1 class="password-heading">Locked Page</h1>
+					<div class="password-field">
+						<input type="password" class="password-field-input" id="field">
+						<button class="password-field-button" onclick="check();">→</button>
+					</div>
+				</div>
+			`;
+			lockedClass = 'locked';
+			lockedScript = `
+				<script>
+					let field = document.querySelector('#field');
+					field.addEventListener("keydown", (e) => {
+						if (e.key === "Enter") {
+							check();
+						}
+					});
+					let answer = "${project['locked']['locked-password']}";
+					function check() {
+						if (field.value == answer) {
+							let passwordScreen = document.querySelector('.password');
+							passwordScreen.remove();
+							let body = document.querySelector('body');
+							body.classList.remove('locked');
+						}
+					}
+				</script>
+			`;
+		}
 
 		// Put it all together
 		let projectContent = `
@@ -299,9 +374,8 @@ function generateHTML() {
 				</style>
 				<script src="https://cdn.jsdelivr.net/npm/gsap@3.13.0/dist/gsap.min.js"></script>
 				<script src="https://cdn.jsdelivr.net/npm/gsap@3.13.0/dist/ScrollTrigger.min.js"></script>
-				<!-- Site developed by No Replica! https://noreplica.com/ -->
 			</head>
-			<body class="light">
+			<body class="light ${lockedClass}">
 				<div class="project">
 					<a class="logo" href="/">Josh Balkowski</a>
 					<nav class="nav">
@@ -310,8 +384,10 @@ function generateHTML() {
 					</nav>
 					<button class="mode-toggle mode-toggle-alt" onclick="toggleMode();"></button>
 					<a class="project-next" href="/work/${nextProject}/">Next ></a>
+
+					${lockedScreen}
 			
-					<header class="project-header">
+					<header class="project-header" data-active="0">
 						<div class="project-header-thumbnail">
 							${projectHeroDesktop}
 							${projectHeroMobile}
@@ -322,19 +398,16 @@ function generateHTML() {
 								<h1 class="project-animate project-header-client-heading">${project['heading']}</h1>
 								${projectLinks}
 							</div>
-							<button class="project-header-toggle" onclick="toggleProjectMobile();" data-active="0">
+							<button class="project-header-toggle" onclick="toggleProjectMobile();">
 								<svg viewBox="0 0 15 9">
 									<path d="M7.5,9c-.28,0-.54-.12-.73-.32L.27,1.68C-.11,1.28-.09.64.32.27c.4-.38,1.04-.35,1.41.05l5.77,6.21L13.27.32c.37-.41,1.01-.43,1.41-.05.4.38.43,1.01.05,1.41l-6.5,7c-.19.2-.45.32-.73.32Z"/>
 								</svg>
 							</button>
-							<div class="project-header-info" data-active="0">
-								<h2 class="project-animate project-header-info-heading">${project['project']}</h2>
-								<p class="project-animate project-header-info-desc">
-									${project['desc']}
-								</p>
+							<div class="project-header-info-column">
+								${infoLeft}
 							</div>
-							<div class="project-header-tags" data-active="0">
-								${projectTags}
+							<div class="project-header-info-column">
+								${infoRight}
 							</div>
 							<div class="project-animate project-header-date">${project['year']}</div>
 						</div>
@@ -347,8 +420,10 @@ function generateHTML() {
 				
 				<script src="/script.js"></script>
 				<script src="/project.js"></script>
+				${lockedScript}
 			</body>
 			</html>
+			<!-- Site by No Replica: https://noreplica.com/ -->
 		`;
 
 		// Create project file (and folder if needed)
@@ -498,18 +573,18 @@ function generateHTML() {
 	});
 
 	// Generate homepage
-	let homeHeroesHTML = '';
+	let homeHeroes = '';
 	let homeHeroIndex = 0;
-	for (let homeHero of homeHeroes) {
+	for (let heroImage of homeHeroImages) {
 		let active = false;
 		if (homeHeroIndex == 0) {
 			active = true;
 		}
-		homeHeroesHTML += `
-			<div class="home-background-hero" data-active="${active}" alt="${homeHero['caption']}">
-				<img src="/assets/home-heroes/${homeHero['image-desktop']}" class="home-background-hero-image home-background-hero-image-desktop">
-				<img src="/assets/home-heroes/${homeHero['image-mobile']}" class="home-background-hero-image home-background-hero-image-mobile">
-				<p class="home-background-hero-caption">${homeHero['caption']}</p>
+		homeHeroes += `
+			<div class="home-background-hero" id="${homeHeroIndex}" data-active="${active}">
+				<img src="${heroImage['desktop-image']}" class="home-background-hero-image home-background-hero-image-desktop">
+				<img src="${heroImage['mobile-image']}" class="home-background-hero-image home-background-hero-image-mobile">
+				<p class="home-background-hero-caption">${heroImage['caption']}</p>
 			</div>
 		`;
 		homeHeroIndex++;
@@ -555,7 +630,7 @@ function generateHTML() {
 				<a class="copyright" href="/credits/">© ${currentYear}</a>
 		
 				<main class="home-background">
-					${homeHeroesHTML}
+					${homeHeroes}
 				</main>
 			</div>
 			

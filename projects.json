@@ -1,5 +1,508 @@
 [
 	{
+		"slug": "nba",
+		"client": "NBA",
+		"display-name": "NBA",
+		"project": "Historic Audio Archive",
+		"year": "2025",
+		"heading": "Nostalgic soundtrack.",
+		"links": {},
+		"info": {
+			"left-column": {
+				"Challenge": "Fans remember the voices as much as the plays yet once games end, that audio disappears into the archive. We wanted to explore how those dormant broadcasts could be transformed into a cultural initiative for the NBA with lasting impact. The concept was a public audio archive: curating historic radio broadcasts into long-form listening experiences, packaged as seasons, series, and iconic runs. The challenge was to prove that game audio, often treated as disposable, could be reframed and positioned as a scalable cultural asset rather than one-off content.",
+				"Outcome": "The archive pilot showed how the NBA could position itself not just as live action entertainment, but as a steward of its own cultural memory. For the brand, it transformed dormant broadcasts into a living library of basketball history. For ESPN, it extended their role as the lasting voice of the game, with commentary re-released as curated playlists and podcast-style series. For fans, it created a deeper, more immersive way to relive iconic moments starting from Kobe Bryant’s 2010 championship run. In a format that match today’s long-form listening habits, the real opportunity lay in scale: cross-team pollination, richer appreciation of the league’s heritage, and history."
+			},
+			"right-column": {
+				"My Role": "I led the creative and strategic development of the archive, shaping it from a loose idea into a structured, pitch-ready initiative. I reframed why historic broadcasts matter, designed how they could be curated into seasons, series, and playlists, and articulated how the format connects nostalgia, wellness, and fan engagement. Beyond creative framing, I also mapped the path to execution by outlining how rights clearance, broadcaster coordination, and league approvals could be built into the process without losing momentum. I structured the deck to highlight the benefits for each stakeholder, from brand equity to broadcaster visibility to fan connection, and ensured the idea was positioned as both inspiring and feasible. This project sharpened my ability to transform underused assets into cultural infrastructure, and to translate speculative vision into a framework aligned with real-world approvals and workflows."
+			}
+		},
+		"filters": "Presentation",
+		"tags": "Concept, Presentation Design",
+		"hero-desktop": {
+			"image": "nba-hero-desktop.jpg",
+			"video": ""
+		},
+		"hero-mobile": {
+			"image": "nba-hero-mobile.jpg",
+			"video": ""
+		},
+		"primary-color": "#D3D5D6",
+		"secondary-color": "#271f1e",
+		"media": [
+			[
+				{
+					"image-normal": "nba-slide-01.jpg",
+					"image-hover": "",
+					"video": "",
+					"alt-text": "",
+					"desktop": true,
+					"mobile": true
+				}
+			],
+			[
+				{
+					"image-normal": "nba-slide-02.jpg",
+					"image-hover": "",
+					"video": "",
+					"alt-text": "",
+					"desktop": true,
+					"mobile": true
+				}
+			],
+			[
+				{
+					"image-normal": "nba-slide-03.jpg",
+					"image-hover": "",
+					"video": "",
+					"alt-text": "",
+					"desktop": true,
+					"mobile": true
+				}
+			],
+			[
+				{
+					"image-normal": "nba-slide-04.jpg",
+					"image-hover": "",
+					"video": "",
+					"alt-text": "",
+					"desktop": true,
+					"mobile": true
+				}
+			],
+			[
+				{
+					"image-normal": "nba-slide-05.jpg",
+					"image-hover": "",
+					"video": "",
+					"alt-text": "",
+					"desktop": true,
+					"mobile": true
+				}
+			],
+			[
+				{
+					"image-normal": "nba-slide-06.jpg",
+					"image-hover": "",
+					"video": "",
+					"alt-text": "",
+					"desktop": true,
+					"mobile": true
+				}
+			],
+			[
+				{
+					"image-normal": "nba-slide-07.jpg",
+					"image-hover": "",
+					"video": "",
+					"alt-text": "",
+					"desktop": true,
+					"mobile": true
+				}
+			],
+			[
+				{
+					"image-normal": "nba-slide-08.jpg",
+					"image-hover": "",
+					"video": "",
+					"alt-text": "",
+					"desktop": true,
+					"mobile": true
+				}
+			],
+			[
+				{
+					"image-normal": "nba-slide-09.jpg",
+					"image-hover": "",
+					"video": "",
+					"alt-text": "",
+					"desktop": true,
+					"mobile": true
+				}
+			],
+			[
+				{
+					"image-normal": "nba-slide-10.jpg",
+					"image-hover": "",
+					"video": "",
+					"alt-text": "",
+					"desktop": true,
+					"mobile": true
+				}
+			],
+			[
+				{
+					"image-normal": "nba-slide-11.jpg",
+					"image-hover": "",
+					"video": "",
+					"alt-text": "",
+					"desktop": true,
+					"mobile": true
+				}
+			],
+			[
+				{
+					"image-normal": "nba-slide-12.jpg",
+					"image-hover": "",
+					"video": "",
+					"alt-text": "",
+					"desktop": true,
+					"mobile": true
+				}
+			],
+			[
+				{
+					"image-normal": "nba-slide-13.jpg",
+					"image-hover": "",
+					"video": "",
+					"alt-text": "",
+					"desktop": true,
+					"mobile": true
+				}
+			],
+			[
+				{
+					"image-normal": "nba-slide-14.jpg",
+					"image-hover": "",
+					"video": "",
+					"alt-text": "",
+					"desktop": true,
+					"mobile": true
+				}
+			]
+		]
+	},
+	{
+		"slug": "cinnabon",
+		"client": "Cinnabon",
+		"display-name": "Cinnabon",
+		"project": "For Any Occasion",
+		"year": "2025",
+		"heading": "For any occasion.",
+		"links": {
+			"Live Link ↗": "https://indd.adobe.com/view/3d2e36d2-70e6-4ff1-b8a5-14f0dda939de"
+		},
+		"info": {
+			"left-column": {
+				"Challenge": "Cinnabon already holds a place as a bona fide comfort food, a small treat that makes sense for an everyday reward-based indulgence. The challenge was to extend a small, everyday comfort into an “any occasion” campaign, showing what happens when a brand built for little joys tries to solve moments far bigger than it can. The creative task was to lean into that gap and use it as the foundation for humor, turning Cinnabon’s limitations into its cultural voice.",
+				"Outcome": "The concept reframed Cinnabon as self-aware and culturally fluent. Instead of pretending a sweet treat could fix heartbreak, layoffs, or tragedy, the campaign made the absurdity the point. By leaning into this mismatch, Cinnabon could step into cultural and social spaces that most brands avoid — the uncomfortable, everyday moments where humor cuts through. In doing so, a brand that usually sits outside of culture found a way to matter: not by overpromising, but by owning its role as comic relief. The result was a scalable platform that pushed the brand’s voice, proved it could tolerate bolder humor, and showed how even a legacy comfort brand can make cultural impact by claiming space other advertisers leave untouched."
+			},
+			"right-column": {
+				"My Role": "I worked with Jason to push how far Cinnabon’s humour tolerance could stretch, co-creating the “for any occasion” platform and developing five scripts designed for commercial production. Together we repositioned the brand from safe indulgence to culturally relevant self-awareness. We structured the scripts to highlight the absurdity of small gestures in big moments, and framed the campaign as a way for a socially quieter brand to claim relevance in spaces other advertisers overlook. This project proved my ability to unearth and own under explored spaces, build humour from human truths, and create scenarios that extend a brand’s voice into new cultural spaces.",
+				"Collaboration": "<a href='https://www.lauj.ca/' target='_blank'>Jason Yuk-Fai Lau ↗</a>"
+			}
+		},
+		"filters": "Presentation",
+		"tags": "Concept, Art Direction, Presentation Design",
+		"hero-desktop": {
+			"image": "cinnabon-hero-desktop.jpg",
+			"video": ""
+		},
+		"hero-mobile": {
+			"image": "cinnabon-hero-mobile.jpg",
+			"video": ""
+		},
+		"primary-color": "#FFC369",
+		"secondary-color": "#133086",
+		"media": [
+			[
+				{
+					"image-normal": "cinnabon-slide-01.jpg",
+					"image-hover": "",
+					"video": "",
+					"alt-text": "",
+					"desktop": true,
+					"mobile": true
+				}
+			],
+			[
+				{
+					"image-normal": "cinnabon-slide-02.jpg",
+					"image-hover": "",
+					"video": "",
+					"alt-text": "",
+					"desktop": true,
+					"mobile": true
+				}
+			],
+			[
+				{
+					"image-normal": "cinnabon-slide-03.jpg",
+					"image-hover": "",
+					"video": "",
+					"alt-text": "",
+					"desktop": true,
+					"mobile": true
+				}
+			],
+			[
+				{
+					"image-normal": "cinnabon-slide-04.jpg",
+					"image-hover": "",
+					"video": "",
+					"alt-text": "",
+					"desktop": true,
+					"mobile": true
+				}
+			],
+			[
+				{
+					"image-normal": "cinnabon-slide-05.jpg",
+					"image-hover": "",
+					"video": "",
+					"alt-text": "",
+					"desktop": true,
+					"mobile": true
+				}
+			],
+			[
+				{
+					"image-normal": "cinnabon-slide-06.jpg",
+					"image-hover": "",
+					"video": "",
+					"alt-text": "",
+					"desktop": true,
+					"mobile": true
+				}
+			],
+			[
+				{
+					"image-normal": "cinnabon-slide-07.jpg",
+					"image-hover": "",
+					"video": "",
+					"alt-text": "",
+					"desktop": true,
+					"mobile": true
+				}
+			],
+			[
+				{
+					"image-normal": "cinnabon-slide-08.jpg",
+					"image-hover": "",
+					"video": "",
+					"alt-text": "",
+					"desktop": true,
+					"mobile": true
+				}
+			],
+			[
+				{
+					"image-normal": "cinnabon-slide-09.jpg",
+					"image-hover": "",
+					"video": "",
+					"alt-text": "",
+					"desktop": true,
+					"mobile": true
+				}
+			],
+			[
+				{
+					"image-normal": "cinnabon-slide-10.jpg",
+					"image-hover": "",
+					"video": "",
+					"alt-text": "",
+					"desktop": true,
+					"mobile": true
+				}
+			],
+			[
+				{
+					"image-normal": "cinnabon-slide-11.jpg",
+					"image-hover": "",
+					"video": "",
+					"alt-text": "",
+					"desktop": true,
+					"mobile": true
+				}
+			],
+			[
+				{
+					"image-normal": "cinnabon-slide-12.jpg",
+					"image-hover": "",
+					"video": "",
+					"alt-text": "",
+					"desktop": true,
+					"mobile": true
+				}
+			],
+			[
+				{
+					"image-normal": "cinnabon-slide-13.jpg",
+					"image-hover": "",
+					"video": "",
+					"alt-text": "",
+					"desktop": true,
+					"mobile": true
+				}
+			],
+			[
+				{
+					"image-normal": "cinnabon-slide-14.jpg",
+					"image-hover": "",
+					"video": "",
+					"alt-text": "",
+					"desktop": true,
+					"mobile": true
+				}
+			],
+			[
+				{
+					"image-normal": "cinnabon-slide-15.jpg",
+					"image-hover": "",
+					"video": "",
+					"alt-text": "",
+					"desktop": true,
+					"mobile": true
+				}
+			],
+			[
+				{
+					"image-normal": "cinnabon-slide-16.jpg",
+					"image-hover": "",
+					"video": "",
+					"alt-text": "",
+					"desktop": true,
+					"mobile": true
+				}
+			],
+			[
+				{
+					"image-normal": "cinnabon-slide-17.jpg",
+					"image-hover": "",
+					"video": "",
+					"alt-text": "",
+					"desktop": true,
+					"mobile": true
+				}
+			],
+			[
+				{
+					"image-normal": "cinnabon-slide-18.jpg",
+					"image-hover": "",
+					"video": "",
+					"alt-text": "",
+					"desktop": true,
+					"mobile": true
+				}
+			],
+			[
+				{
+					"image-normal": "cinnabon-slide-19.jpg",
+					"image-hover": "",
+					"video": "",
+					"alt-text": "",
+					"desktop": true,
+					"mobile": true
+				}
+			],
+			[
+				{
+					"image-normal": "cinnabon-slide-20.jpg",
+					"image-hover": "",
+					"video": "",
+					"alt-text": "",
+					"desktop": true,
+					"mobile": true
+				}
+			],
+			[
+				{
+					"image-normal": "cinnabon-slide-21.jpg",
+					"image-hover": "",
+					"video": "",
+					"alt-text": "",
+					"desktop": true,
+					"mobile": true
+				}
+			],
+			[
+				{
+					"image-normal": "cinnabon-slide-22.jpg",
+					"image-hover": "",
+					"video": "",
+					"alt-text": "",
+					"desktop": true,
+					"mobile": true
+				}
+			],
+			[
+				{
+					"image-normal": "cinnabon-slide-23.jpg",
+					"image-hover": "",
+					"video": "",
+					"alt-text": "",
+					"desktop": true,
+					"mobile": true
+				}
+			],
+			[
+				{
+					"image-normal": "cinnabon-slide-24.jpg",
+					"image-hover": "",
+					"video": "",
+					"alt-text": "",
+					"desktop": true,
+					"mobile": true
+				}
+			]
+		]
+	},
+	{
+		"slug": "global-tech-company",
+		"client": "Apple",
+		"display-name": "Apple",
+		"project": "WWDC 2025",
+		"year": "2025",
+		"heading": "For any occasion.",
+		"links": {},
+		"info": {
+			"left-column": {
+				"Challenge": "At the annual developer conference for a large technology company, the task was simple but daunting: translate complex, highly technical developer updates into a keynote sessions that millions of global viewers could understand. The stakes were enormous: <a href='https://www.youtube.com/watch?v=0_DjDdfqtUE' target='_blank'>a live broadcast to 20M+ people</a> including developers, journalists, and the general public. The brand needed to bridge the gap between deep technical detail and compelling consumer-facing storytelling without losing nuance or diluting the work of their engineers.",
+				"Outcome": "I enabled the brand experts to clarify complex technical updates into developer sessions that inspired both developers and consumers while protecting technical accuracy.<br><br>Trust built: Translated engineering language into narratives that resonated with developers and non-technical audiences alike.<br><br>Impact scaled: Helped the keynote reach 20M+ people worldwide, reinforcing the brand’s leadership and developer-first positioning.<br><br>Time saved: Partnered closely with engineers, allowing them to stay focused on building while I distilled their work into accessible stories."
+			},
+			"right-column": {
+				"My Role": "I partnered with engineers and product teams to extract the technical “why,” then built narrative flows and visualizations that clarified consumer impact. I created over 100 session keynotes visuals across Zoom, Keynote, and custom systems, while supporting speaker narrative refinement to ensure clarity and resonance. This project strengthened my ability to bridge technical expertise with public communication, build trust with specialized and broad audiences at the same time, and deliver brand-consistent storytelling under launch-level pressure. These same capabilities now apply directly to AI labs, developer platforms, and frontier tech, where communicating innovation clearly is critical to adoption."
+			}
+		},
+		"filters": "Presentation",
+		"tags": "Presentation Design",
+		"hero-desktop": {
+			"image": "gtc-hero-desktop.jpg",
+			"video": ""
+		},
+		"hero-mobile": {
+			"image": "gtc-hero-mobile.jpg",
+			"video": ""
+		},
+		"primary-color": "#EEE8AC",
+		"secondary-color": "#0d0c45",
+		"media": [
+			[
+				{
+					"image-normal": "",
+					"image-hover": "",
+					"video": "",
+					"embed": "<iframe title='vimeo-player' src='https://player.vimeo.com/video/1146216711?h=92fd80fcf9' frameborder='0' referrerpolicy='strict-origin-when-cross-origin' allow='autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share'   allowfullscreen></iframe>",
+					"alt-text": "",
+					"desktop": true,
+					"mobile": true
+				}
+			]
+		],
+		"locked": {
+			"locked-client": "Global Tech Company",
+			"locked-project": "Confidential Project",
+			"locked-hero-desktop": {
+				"image": "gtc-hero-desktop-locked.jpg",
+				"video": ""
+			},
+			"locked-hero-mobile": {
+				"image": "gtc-hero-mobile-locked.jpg",
+				"video": ""
+			},
+			"locked-password": "joshb123"
+		}
+	},
+	{
 		"slug": "please-keep-well",
 		"client": "Please Keep Well",
 		"display-name": "Please Keep Well",
@@ -7,17 +510,18 @@
 		"year": "2025",
 		"heading": "A second life looks good on you.",
 		"links": {},
-		"desc": "Please Keep Well started with the goal of repurposing by giving thrifted pots a new, reusable life as homes for Ben’s homegrown plants. Their first run of merch follows the brand’s environmentally conscious perspective. Each design blends Ben’s hand-drawn sketches with repurposed content from their Instagram. A loud bark, with absolutely no bite, all designs will be screen-printed in limited runs (on thrifted tees, of course) some day soon. The project is about encouraging everyday sustainability and showing that design at any scale can create joy and spark new habits.",
+		"info": {
+			"left-column": {
+				"Challenge": "Please Keep Well began as a project repurposing thrifted pots and containers with homegrown plants for resale and rehoming. Founder Benjamin Badiuk wanted to explore how the brand could grow beyond those origins, expanding into new products while loosely entertaining a revenue stream. The challenge was to design a system flexible enough to carry forward existing brand elements while evolving into apparel and other expressions, with sustainability and reuse remaining at the centre.",
+				"Outcome": "The result was a set of product concepts that extended the PKW world. Apparel designs combined Ben’s hand-drawn sketches with repurposed content from the brand’s Instagram, screen-printed in limited runs on thrifted tees. This reinforced PKW’s ethos of reuse and sustainability while giving the brand a playful, community-driven presence. The work positioned PKW as more than a small project, showing how design can spark joy, encourage new oppertunities, and open paths for growth."
+			},
+			"right-column": {
+				"My Role": "I collaborated with Ben to explore how Please Keep Well could grow beyond its re-planter origins. I designed apparel concepts and supporting visuals that incorporated reused sketches and sustainable production methods to preserve the brand’s ethos. My role was to keep every expression tied to the core idea of second life while giving the brand a tangible example of how it could expand into new areas and opportunities.",
+				"Collaboration": "Benjamin Badiuk"
+			}
+		},
 		"filters": "Design",
 		"tags": "Apparel Design",
-		"info-categories": {
-			"Services": [
-				"Apparel Design"
-			],
-			"Collaboration": [
-				"Benjamin Badiuk"
-			]
-		},
 		"hero-desktop": {
 			"image": "pkw-hero.jpg",
 			"video": ""
@@ -111,19 +615,20 @@
 		"year": "2024",
 		"heading": "This seat’s reserved.",
 		"links": {
-			"Live Site": "https://www.thebutterexperience.com/"
+			"Live Site ↗": "https://www.thebutterexperience.com/"
 		},
-		"desc": "Butter is all about bringing restaurant-quality dining into the home with an intimate, elevated experience built around warmth, craftsmanship, and connection. Through refined branding, art direction, and photography, a visual language was crafted that feels both inviting and elevated. A minimalist logo, typography, and colour palette set the tone, while photography captured the “I want an invite!” energy. The website was designed as a seamless extension of the experience, alongside supporting collateral like business cards and pricing sheets to keep the brand cohesive at every touchpoint. The launch of this brand and site helped Butter introduce their unique approach to private dining, setting the tone for their business and supporting a successful opening.",
+		"info": {
+			"left-column": {
+				"Challenge": "Butter was conceived by Max Wheatley to bring restaurant-quality dining into the home. The challenge was to create a brand that captured an experience both elevated and approachable, translating the intimacy of a private chef service into something people could immediately trust and desire. To succeed, it had to stand apart from generic catering or meal-prep services by positioning itself as a lifestyle experience as much as a food offering.",
+				"Outcome": "The Butter brand embodied Max Wheatley’s vision of bringing restaurant-quality dining into the home through an intimate, elevated experience built on warmth, craftsmanship, and connection. The identity paired a minimalist logo, typography, and color palette with editorial photography that conveyed the energy of being at the table. The website and collateral extended the experience across every touchpoint, positioning Butter as a premium yet approachable service with a cohesive identity ready to go from day one."
+			},
+			"right-column": {
+				"My Role": "I led the creative direction for Butter from concept through launch. My work took a 360-degree approach, from designing the brand identity and building the website to creating supporting collateral. I art directed editorial and on-set photography to capture the intimacy of the dining experience and the personality of the chef. Every touchpoint reflected the same elevated yet inviting energy, giving Butter a cohesive system that could scale as the business grew.",
+				"Collaboration": "Max Wheatley"
+			}
+		},
 		"filters": "Branding, Art Direction, Design",
 		"tags": "Brand Identity, Art Direction, Photography, Web Design",
-		"info-categories": {
-			"Services": [
-				"Brand Identity",
-				"Art Direction",
-				"Photography",
-				"Web Design"
-			]
-		},
 		"hero-desktop": {
 			"image": "butter-hero.jpg",
 			"video": ""
@@ -247,21 +752,22 @@
 		"slug": "skin-and-bones",
 		"client": "Skin & Bones",
 		"display-name": "Skin & Bones",
-		"project": "Valentine Matchboxes",
+		"project": "Matchboxes",
 		"year": "2023",
 		"heading": "Can’t start a fire, without a spark.",
 		"links": {},
-		"desc": "What better way to keep the spark alive? A playful take on Valentine’s Day tokens of appreciation, these custom matchboxes were designed as a gift for Skin & Bones' clients. Created as a series of eight playful variations, each box leaned into humour, nostalgia, and wordplay fitting for the holiday. Projects like this bring a sense of delight to everyday interactions and help create lasting impressions, even through the smallest details.",
+		"info": {
+			"left-column": {
+				"Challenge": "Skin & Bones wanted a Valentine’s Day gift for clients that was thoughtful, memorable, and a playful take on an unassuming holiday. The challenge was to design something small in scale but big in impact, a piece that would stand out from typical corporate tokens and leave a lasting impression.",
+				"Outcome": "The result was a set of custom matchboxes designed as keepsakes. Created in eight unique variations, each leaned into humour, nostalgia, and wordplay suited to the holiday. The project turned an everyday object into a conversation piece, reinforcing Skin & Bones’ identity as a studio that finds delight in the details and brings creativity into every interaction."
+			},
+			"right-column": {
+				"My Role": "I designed the matchbox series from concept through execution. With production constraints in mind, I developed variations that carried distinct personalities while working as a cohesive set. My role was to balance playfulness with brand integrity, ensuring the gifts reflected Skin & Bones’ voice while creating a tactile experience clients would remember long after the holiday.",
+				"Illustration": "Andrew Watch"
+			}
+		},
 		"filters": "Design",
 		"tags": "Packaging Design",
-		"info-categories": {
-			"Services": [
-				"Packaging Design"
-			],
-			"Illustration": [
-				"Andrew Watch"
-			]
-		},
 		"hero-desktop": {
 			"image": "skinandbones-hero-desktop.jpg",
 			"video": ""
@@ -355,15 +861,17 @@
 		"year": "2023",
 		"heading": "Change starts in ink.",
 		"links": {},
-		"desc": "The Permanent Change campaign highlights the power of Sharpie as a tool for activism where bold ideas take shape, and lasting change begins. By focusing on absence, the campaign underscored Sharpie’s historical role in protest and social movements, reinforcing the idea that  messages that shape history are often written in permanent ink. Through a visual and conceptual connection between social justice and self-expression, the campaign positioned Sharpie not just as a marker, but as a symbol of resistance, advocacy, and transformation. While this campaign was conceptual, it served as a creative prompt for broader conversations about the role of design in activism, demonstrating how a familiar object can become a symbol for collective action.",
+		"info": {
+			"left-column": {
+				"Challenge": "If I were leading creative for Sharpie, I would want the brand to move beyond utility and step into cultural relevance. Brands like United Colors of Benetton built entire identities around social and political provocation, using design as a platform for commentary. Sharpie has the same potential. Permanence is not only about ink but about resistance, advocacy, and voice. The challenge was to reimagine Sharpie as a brand that does not just sell a tool, but champions the lasting change that comes from it.",
+				"Outcome": "The result was a conceptual campaign called “Permanent Change.” It positioned Sharpie as a tool for activism and self-expression, linking permanence with impact. By focusing on absence; the empty sign, the unfinished poster, the words not yet written - the work underscored Sharpie’s historical place in protest and social movements. It reframed the brand as a symbol of resistance and transformation, and as a creative prompt for broader conversations about how design can participate in cultural change."
+			},
+			"right-column": {
+				"My Role": "I created the concept direction and designed the OTH campaign assets that brought the idea life. The work repositioned permanence from a simple product feature into a cultural statement, showcasing how Sharpie could participate in conversations about activism and social change in a relevant and significant way."
+			}
+		},
 		"filters": "Art Direction, Design",
 		"tags": "Art Direction, Design",
-		"info-categories": {
-			"Services": [
-				"Art Direction",
-				"Design"
-			]
-		},
 		"hero-desktop": {
 			"image": "sharpie-hero-desktop.jpg",
 			"video": ""
@@ -431,17 +939,19 @@
 		"year": "2023",
 		"heading": "Medical, made personal.",
 		"links": {},
-		"desc": "Jack & Jill reimagined medical packaging for the direct-to-consumer space balancing regulatory constraints with an inviting, shelf-worthy design. For both sub-brands, the goal was the same: to soften the clinical, elevate the everyday, and create an unboxing experience that felt as considered as the care inside. This project laid the foundation for a more approachable, consumer-friendly experience and created a starting point for building a brand people can relate to on a personal level.",
+		"info": {
+			"left-column": {
+				"Challenge": "In direct-to-consumer health, packaging design is secondary to medical information. Jack & Jill also had to meet strict regulatory guidelines that dictated what information must appear at each level of packaging. The goal was to uphold those standards while creating a system that looked and felt like their brand, with packaging that could sit comfortably beside cosmetic products on the bathroom shelf.",
+				"Outcome": "The new design system met strict regulatory requirements while giving Jack & Jill the polish of a consumer brand. It built trust by communicating legitimacy and safety in a regulated space, increased clarity through a hierarchy and messaging system that reduced confusion at the point of decision, and elevated positioning by creating a cohesive identity that inspired loyalty among patients and confidence in the brand. The result was a scalable framework that worked seamlessly across prescription, OTC, and vitamin lines, enabling Jack & Jill to compete as a credible player in the wellness market."
+			},
+			"right-column": {
+				"My Role": "I directed creative across brand and packaging, redesigning primary, secondary, and tertiary systems from the ground up. My role was to define the line between regulatory requirements and brand identity across prescription products, OTC lines, and vitamin packs. I worked closely with the pharmacy team to uphold strict compliance standards while still creating a design system that felt approachable and consumer-friendly. The framework was built to scale as Jack & Jill grew, ensuring consistency across product lines and future expansions. This process sharpened my ability to design for regulated industries where clarity and trust are paramount, to translate constraints into creative systems that support business growth, and to elevate consumer perception through packaging that connects brand voice with real-world compliance. These same skills now apply to MedTech, bio, and health companies looking to move from technical credibility to broad public adoption."
+			}
+		},
 		"filters": [
 			"Branding, Design"
 		],
 		"tags": "Branding, Packaging Design",
-		"info-categories": {
-			"Services": [
-				"Branding",
-				"Packaging Design"
-			]
-		},
 		"hero-desktop": {
 			"image": "jack-and-jill-hero.jpg",
 			"video": ""
@@ -517,14 +1027,17 @@
 		"year": "2022 – 2025",
 		"heading": "Treatments that make the cut.",
 		"links": {},
-		"desc": "Treatments are where ideas take shape to bridge the gap between ad-concept, written, and visual references. This collection showcases a range of clients and visual approaches, each tailored to elevate the director’s vision and bring a pitch to life. The goal of a treatment is to help directors win jobs by providing a clear visual and narrative guide that brings creative ideas to life and makes them stand out in a competitive pitching process. Every treatment is designed to captivate, clarify, and sell the story before a single frame is shot. Get in touch for full treatment links.",
-		"filters": "Treatments",
-		"tags": "Treatment Design",
-		"info-categories": {
-			"Services": [
-				"Treatment Design"
-			]
+		"info": {
+			"left-column": {
+				"Challenge": "In commercial production, directors win jobs by submitting “treatments” (aka high-stakes presentations) that must persuade agencies and brands to trust their vision. The stakes are enormous: budgets often range from $5k to $3M+ per campaign, and directors typically have less than 72 hours to transform an their concept into a client-ready narrative.<br><br>The challenge isn’t just making a deck. It’s translating a director’s creative vision into a persuasive, on-brand pitch that will win against equally talented competitors all while working under tight deadlines.",
+				"Outcome": "The treatments I designed consistently helped directors secure competitive commercial work. By building clear visual frameworks and aligning the narrative to agency expectations, I gave directors the tools to “win the room” even when time and resources were limited.<br><br>Revenue impact: Collectively, this body of work secured campaigns across multiple directors and scaled into millions of dollars in value for the brands involved.<br><br>Speed impact: Repeatable systems and templates cut turnaround times and increase efficiency, while maintaining quality under pressure.<br><br>Trust impact: Bold creative ideas were balanced with brand constraints in ways that gave clients confidence."
+			},
+			"right-column": {
+				"My Role": "This work honed my ability to turn ambiguity into clarity by translating abstract ideas into persuasive stories. It strengthened my skill in designing high-stakes presentations that drive decisions and sharpened my capacity to operate under extreme time pressure without sacrificing clarity or craft. It also pushed me to build repeatable systems that scale storytelling across projects and to balance bold creative expression with brand-safe constraints that gave clients confidence. These same capabilities now apply anywhere an abstract idea needs to be made legible, compelling, and high trust at speed, from brand launches to keynotes to complex product storytelling."
+			}
 		},
+		"filters": "Presentation",
+		"tags": "Treatment Design",
 		"hero-desktop": {
 			"image": "various-hero.jpg",
 			"video": "various-hero.mp4"

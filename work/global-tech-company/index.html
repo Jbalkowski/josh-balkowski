@@ -1,0 +1,126 @@
+
+			<!DOCTYPE html>
+			<html lang="en">
+			<head>
+				<meta charset="UTF-8">
+				<meta name="viewport" content="width=device-width, initial-scale=1.0">
+				<title>Josh Balkowski | Apple</title>
+				
+	<meta name="author" content="Josh Balkowski">
+	<meta name="keywords" content="Branding, Art Direction, Design, Treatments">
+	<meta name="description" content="Josh Balkowski is a Toronto based Art Director and Designer.">
+	<meta property="og:url" content="https://joshbalkowski.com/">
+	<meta name="og:title" property="og:title" content="Josh Balkowski">
+	<meta property="og:description" content="Josh Balkowski is a Toronto based Art Director and Designer.">
+	<meta property="og:image" content="/assets/meta/opengraph.png">
+	<link rel="icon" type="png" href="/assets/meta/favicon.png"></link>
+
+				<link rel="stylesheet" href="/style.css">
+				<style>
+					.dark {
+						--primary: #EEE8AC;
+						--secondary: #0d0c45;
+					}
+				</style>
+				<script src="https://cdn.jsdelivr.net/npm/gsap@3.13.0/dist/gsap.min.js"></script>
+				<script src="https://cdn.jsdelivr.net/npm/gsap@3.13.0/dist/ScrollTrigger.min.js"></script>
+			</head>
+			<body class="light locked">
+				<div class="project">
+					<a class="logo" href="/">Josh Balkowski</a>
+					<nav class="nav">
+						<a href="/work">Work</a>
+						<a href="/info">Info</a>
+					</nav>
+					<button class="mode-toggle mode-toggle-alt" onclick="toggleMode();"></button>
+					<a class="project-next" href="/work/please-keep-well/">Next ></a>
+
+					
+				<div class="password">
+					<h1 class="password-heading">Locked Page</h1>
+					<div class="password-field">
+						<input type="password" class="password-field-input" id="field">
+						<button class="password-field-button" onclick="check();">→</button>
+					</div>
+				</div>
+			
+			
+					<header class="project-header" data-active="0">
+						<div class="project-header-thumbnail">
+							
+				<img class="project-header-thumbnail-desktop" src="gtc-hero-desktop.jpg">
+			
+							
+				<img class="project-header-thumbnail-mobile" src="gtc-hero-mobile.jpg">
+			
+						</div>
+						<div class="project-header-content">
+							<div class="project-header-client">
+								<div class="project-animate project-header-client-label">Apple</div>
+								<h1 class="project-animate project-header-client-heading">For any occasion.</h1>
+								
+							</div>
+							<button class="project-header-toggle" onclick="toggleProjectMobile();">
+								<svg viewBox="0 0 15 9">
+									<path d="M7.5,9c-.28,0-.54-.12-.73-.32L.27,1.68C-.11,1.28-.09.64.32.27c.4-.38,1.04-.35,1.41.05l5.77,6.21L13.27.32c.37-.41,1.01-.43,1.41-.05.4.38.43,1.01.05,1.41l-6.5,7c-.19.2-.45.32-.73.32Z"/>
+								</svg>
+							</button>
+							<div class="project-header-info-column">
+								
+				<div class="project-header-info-section">
+					<h2 class="project-animate project-header-info-heading">Challenge</h2>
+					<p class="project-animate project-header-info-desc">At the annual developer conference for a large technology company, the task was simple but daunting: translate complex, highly technical developer updates into a keynote sessions that millions of global viewers could understand. The stakes were enormous: <a href='https://www.youtube.com/watch?v=0_DjDdfqtUE' target='_blank'>a live broadcast to 20M+ people</a> including developers, journalists, and the general public. The brand needed to bridge the gap between deep technical detail and compelling consumer-facing storytelling without losing nuance or diluting the work of their engineers.</p>
+				</div>
+			
+				<div class="project-header-info-section">
+					<h2 class="project-animate project-header-info-heading">Outcome</h2>
+					<p class="project-animate project-header-info-desc">I enabled the brand experts to clarify complex technical updates into developer sessions that inspired both developers and consumers while protecting technical accuracy.<br><br>Trust built: Translated engineering language into narratives that resonated with developers and non-technical audiences alike.<br><br>Impact scaled: Helped the keynote reach 20M+ people worldwide, reinforcing the brand’s leadership and developer-first positioning.<br><br>Time saved: Partnered closely with engineers, allowing them to stay focused on building while I distilled their work into accessible stories.</p>
+				</div>
+			
+							</div>
+							<div class="project-header-info-column">
+								
+				<div class="project-header-info-section">
+					<h2 class="project-animate project-header-info-heading">My Role</h2>
+					<p class="project-animate project-header-info-desc">I partnered with engineers and product teams to extract the technical “why,” then built narrative flows and visualizations that clarified consumer impact. I created over 100 session keynotes visuals across Zoom, Keynote, and custom systems, while supporting speaker narrative refinement to ensure clarity and resonance. This project strengthened my ability to bridge technical expertise with public communication, build trust with specialized and broad audiences at the same time, and deliver brand-consistent storytelling under launch-level pressure. These same capabilities now apply directly to AI labs, developer platforms, and frontier tech, where communicating innovation clearly is critical to adoption.</p>
+				</div>
+			
+							</div>
+							<div class="project-animate project-header-date">2025</div>
+						</div>
+					</header>
+			
+					<main class="project-main">
+						
+				<div class="project-main-row">
+					<iframe title='vimeo-player' src='https://player.vimeo.com/video/1146216711?h=92fd80fcf9' frameborder='0' referrerpolicy='strict-origin-when-cross-origin' allow='autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share'   allowfullscreen></iframe>
+				</div>
+			
+					</main>
+				</div>
+				
+				<script src="/script.js"></script>
+				<script src="/project.js"></script>
+				
+				<script>
+					let field = document.querySelector('#field');
+					field.addEventListener("keydown", (e) => {
+						if (e.key === "Enter") {
+							check();
+						}
+					});
+					let answer = "joshb123";
+					function check() {
+						if (field.value == answer) {
+							let passwordScreen = document.querySelector('.password');
+							passwordScreen.remove();
+							let body = document.querySelector('body');
+							body.classList.remove('locked');
+						}
+					}
+				</script>
+			
+			</body>
+			</html>
+			<!-- Site by No Replica: https://noreplica.com/ -->
+		

@@ -40,6 +40,14 @@ body {
 	font-weight: 400;
 	font-variation-settings: "wght" 400, "opsz" 14.0;
 }
+body.locked {
+	--primary: #0f0f0f !important;
+	--secondary: #FBF4F4 !important;
+}
+body.locked.dark {
+	--primary: #FBF4F4 !important;
+	--secondary: #0f0f0f !important;
+}
 .light {
 	--primary: #0f0f0f;
 	--secondary: #FBF4F4;
@@ -538,6 +546,7 @@ body {
 	gap: 10px;
 	cursor: pointer;
 	transition: opacity .2s;
+	font-variation-settings: "wght" 400, "opsz" 14.0;
 }
 .info-main-email:hover {
 	font-style: italic;
@@ -781,38 +790,37 @@ body {
 	width: 15px;
 	fill: var(--primary);
 }
-.project-header-toggle[data-active="1"] {
+.project-header[data-active="1"] .project-header-toggle {
 	transform: rotate(180deg);
 }
-.project-header-info {
-
+.project-header-info-column {
+	display: flex;
+	flex-direction: column;
+	gap: 40px;
+}
+.project-header-info-column a {
+	color: var(--primary);
+	transition: opacity .2s;
+	text-underline-offset: .2em;
+}
+.project-header-info-column a:hover {
+	font-style: italic;
+}
+.project-header-info-column a:active {
+	opacity: .25;
+}
+.project-header-info-section {
+	display: flex;
+	flex-direction: column;
+	gap: 20px;
 }
 .project-header-info-heading {
-	margin-bottom: 20px;
 	font-size: 14px;
 	line-height: 1.25em;
 	font-weight: 600;
 	font-variation-settings: "wght" 600, "opsz" 14.0;
 }
 .project-header-info-desc {
-
-}
-.project-header-tags {
-	display: flex;
-	flex-direction: column;
-	gap: 40px;
-}
-.project-header-tags-section {
-
-}
-.project-header-tags-heading {
-	font-size: 14px;
-	line-height: 1.25em;
-	margin-bottom: 20px;
-	font-weight: 600;
-	font-variation-settings: "wght" 600, "opsz" 14.0;
-}
-.project-header-tags-item {
 	
 }
 .project-header-date {
@@ -837,10 +845,7 @@ body {
 	.project-header-toggle {
 		display: block;
 	}
-	.project-header-info[data-active="0"] {
-		display: none;
-	}
-	.project-header-tags[data-active="0"] {
+	.project-header[data-active="0"] .project-header-info-column {
 		display: none;
 	}
 	.project-header-client-label {
@@ -856,9 +861,14 @@ body {
 		line-height: 18px;
 		text-underline-offset: .2em;
 	}
+	.project-header-info-column {
+		gap: 20px;
+	}
+	.project-header-info-section {
+		gap: 10px;
+	}
 	.project-header-info-heading {
 		font-size: 10px;
-		margin-bottom: 10px;
 		line-height: 1.25em;
 	}
 	.project-header-info-desc {
@@ -938,6 +948,12 @@ body {
 	height: 100%;
 	object-fit: cover;
 }
+.project-main iframe {
+	width: 100%;
+	border: unset;
+	aspect-ratio: 16/9;
+	display: block;
+}
 .project-main-item-mobile {
 	display: none;
 }
@@ -986,7 +1002,7 @@ body {
 	justify-content: center;
 	font-size: 14px;
 	font-weight: 500;
-	font-variation-settings: "wght" 500, "opsz" 14.0;
+	font-variation-settings: "wght" 400, "opsz" 14.0;
 	line-height: 1.25em;
 	gap: 1.25em;
 }
@@ -1006,4 +1022,75 @@ body {
 	.credits-main-content {
 		font-size: 12px;
 	}
+}
+
+/* Password screen */
+.locked .project-header,
+.locked .project-main {
+	display: none !important;
+}
+.password {
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	text-align: center;
+	gap: 20px;
+}
+.password-heading {
+	font-family: "Inter", sans-serif;
+	font-size: 14px;
+	font-weight: 600;
+	font-variation-settings: "wght" 600, "opsz" 14.0;
+}
+.password-field {
+	display: flex;
+	border: 1px solid #CCC6C6;
+	border-radius: 20px;
+	padding: 2px;
+}
+.password-field-input {
+	background-color: unset;
+	border: unset;
+	border-radius: unset;
+	font-size: 14px;
+	font-family: inherit;
+	font-weight: 400;
+	font-variation-settings: "wght" 400, "opsz" 14.0;
+	text-align: center;
+	padding-left: 14px;
+	color: inherit;
+}
+.password-field-input:focus {
+	outline: unset;
+}
+.password-field-button {
+	font-size: 14px;
+	font-family: inherit;
+	font-weight: 400;
+	font-variation-settings: "wght" 400, "opsz" 14.0;
+	color: #CCC6C6;
+	border: unset;
+	background-color: unset;
+	cursor: pointer;
+	transition: opacity .2s;
+}
+.password-field-button:hover {
+	color: #0f0f0f;
+}
+.password-field-button:active {
+	opacity: .5;
+}
+.dark .password-field {
+	border-color: #2f2e2e;
+}
+.dark .password-field-button {
+	color: #2f2e2e;
+}
+.dark .password-field-button:hover {
+	color: #FBF4F4;
 }

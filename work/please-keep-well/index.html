@@ -24,9 +24,8 @@
 				</style>
 				<script src="https://cdn.jsdelivr.net/npm/gsap@3.13.0/dist/gsap.min.js"></script>
 				<script src="https://cdn.jsdelivr.net/npm/gsap@3.13.0/dist/ScrollTrigger.min.js"></script>
-				<!-- Site developed by No Replica! https://noreplica.com/ -->
 			</head>
-			<body class="light">
+			<body class="light ">
 				<div class="project">
 					<a class="logo" href="/">Josh Balkowski</a>
 					<nav class="nav">
@@ -35,8 +34,10 @@
 					</nav>
 					<button class="mode-toggle mode-toggle-alt" onclick="toggleMode();"></button>
 					<a class="project-next" href="/work/the-butter-experience/">Next ></a>
+
+					
 			
-					<header class="project-header">
+					<header class="project-header" data-active="0">
 						<div class="project-header-thumbnail">
 							
 				<img class="project-header-thumbnail-desktop" src="pkw-hero.jpg">
@@ -51,29 +52,36 @@
 								<h1 class="project-animate project-header-client-heading">A second life looks good on you.</h1>
 								
 							</div>
-							<button class="project-header-toggle" onclick="toggleProjectMobile();" data-active="0">
+							<button class="project-header-toggle" onclick="toggleProjectMobile();">
 								<svg viewBox="0 0 15 9">
 									<path d="M7.5,9c-.28,0-.54-.12-.73-.32L.27,1.68C-.11,1.28-.09.64.32.27c.4-.38,1.04-.35,1.41.05l5.77,6.21L13.27.32c.37-.41,1.01-.43,1.41-.05.4.38.43,1.01.05,1.41l-6.5,7c-.19.2-.45.32-.73.32Z"/>
 								</svg>
 							</button>
-							<div class="project-header-info" data-active="0">
-								<h2 class="project-animate project-header-info-heading">T-Shirts</h2>
-								<p class="project-animate project-header-info-desc">
-									Please Keep Well started with the goal of repurposing by giving thrifted pots a new, reusable life as homes for Ben’s homegrown plants. Their first run of merch follows the brand’s environmentally conscious perspective. Each design blends Ben’s hand-drawn sketches with repurposed content from their Instagram. A loud bark, with absolutely no bite, all designs will be screen-printed in limited runs (on thrifted tees, of course) some day soon. The project is about encouraging everyday sustainability and showing that design at any scale can create joy and spark new habits.
-								</p>
-							</div>
-							<div class="project-header-tags" data-active="0">
+							<div class="project-header-info-column">
 								
-					<div class="project-header-tags-section">
-						<h2 class="project-animate project-header-tags-heading">Services</h2>
-						<p class="project-animate project-header-tags-item">Apparel Design</p>
-					</div>
-				
-					<div class="project-header-tags-section">
-						<h2 class="project-animate project-header-tags-heading">Collaboration</h2>
-						<p class="project-animate project-header-tags-item">Benjamin Badiuk</p>
-					</div>
-				
+				<div class="project-header-info-section">
+					<h2 class="project-animate project-header-info-heading">Challenge</h2>
+					<p class="project-animate project-header-info-desc">Please Keep Well began as a project repurposing thrifted pots and containers with homegrown plants for resale and rehoming. Founder Benjamin Badiuk wanted to explore how the brand could grow beyond those origins, expanding into new products while loosely entertaining a revenue stream. The challenge was to design a system flexible enough to carry forward existing brand elements while evolving into apparel and other expressions, with sustainability and reuse remaining at the centre.</p>
+				</div>
+			
+				<div class="project-header-info-section">
+					<h2 class="project-animate project-header-info-heading">Outcome</h2>
+					<p class="project-animate project-header-info-desc">The result was a set of product concepts that extended the PKW world. Apparel designs combined Ben’s hand-drawn sketches with repurposed content from the brand’s Instagram, screen-printed in limited runs on thrifted tees. This reinforced PKW’s ethos of reuse and sustainability while giving the brand a playful, community-driven presence. The work positioned PKW as more than a small project, showing how design can spark joy, encourage new oppertunities, and open paths for growth.</p>
+				</div>
+			
+							</div>
+							<div class="project-header-info-column">
+								
+				<div class="project-header-info-section">
+					<h2 class="project-animate project-header-info-heading">My Role</h2>
+					<p class="project-animate project-header-info-desc">I collaborated with Ben to explore how Please Keep Well could grow beyond its re-planter origins. I designed apparel concepts and supporting visuals that incorporated reused sketches and sustainable production methods to preserve the brand’s ethos. My role was to keep every expression tied to the core idea of second life while giving the brand a tangible example of how it could expand into new areas and opportunities.</p>
+				</div>
+			
+				<div class="project-header-info-section">
+					<h2 class="project-animate project-header-info-heading">Collaboration</h2>
+					<p class="project-animate project-header-info-desc">Benjamin Badiuk</p>
+				</div>
+			
 							</div>
 							<div class="project-animate project-header-date">2025</div>
 						</div>
@@ -142,6 +150,8 @@
 				
 				<script src="/script.js"></script>
 				<script src="/project.js"></script>
+				
 			</body>
 			</html>
+			<!-- Site by No Replica: https://noreplica.com/ -->
 		
