@@ -554,11 +554,11 @@
 		"locked-client": "Global Tech Company",
 		"locked-project": "Confidential Project",
 		"locked-hero-desktop": {
-			"image": "gtc-hero-desktop-locked.jpg",
+			"image": "gtc-hero-desktop-locked.gif",
 			"video": ""
 		},
 		"locked-hero-mobile": {
-			"image": "gtc-hero-mobile-locked.jpg",
+			"image": "gtc-hero-mobile-locked.gif",
 			"video": ""
 		},
 		"locked-password": "access123"
