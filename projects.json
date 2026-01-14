@@ -528,11 +528,11 @@
 		"filters": "Presentation",
 		"tags": "Presentation Design",
 		"hero-desktop": {
-			"image": "gtc-hero-desktop.png",
+			"image": "gtc-hero-desktop.jpg",
 			"video": ""
 		},
 		"hero-mobile": {
-			"image": "gtc-hero-mobile.png",
+			"image": "gtc-hero-mobile.jpg",
 			"video": ""
 		},
 		"primary-color": "#EEE8AC",
