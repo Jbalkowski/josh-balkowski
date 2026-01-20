@@ -1094,3 +1094,14 @@ body.locked.dark {
 .dark .password-field-button:hover {
 	color: #FBF4F4;
 }
+/* JOSH TRYING TO MAKE THE NBA page Vimeo embed fill the column and stay square */
+.nba-embed iframe{
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  display: block;
+  border: 0;
+}
+.nba-embed{
+  width: 100%;
+  align-self: stretch;
+}

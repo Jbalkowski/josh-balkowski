@@ -58,7 +58,7 @@
 					"image-normal": "",
 					"image-hover": "",
 					"video": "",
-					"embed": "<iframe title='vimeo-player' src='https://player.vimeo.com/video/1156305054' frameborder='0' referrerpolicy='strict-origin-when-cross-origin' allow='fullscreen; picture-in-picture' allowfullscreen></iframe>",
+					"embed": "<div class='nba-embed'><iframe title='vimeo-player' src='https://player.vimeo.com/video/1156653873?h=2b2a752bd7' frameborder='0' referrerpolicy='strict-origin-when-cross-origin' allow='autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share' allowfullscreen></iframe></div>",
 					"alt-text": "",
 					"desktop": true,
 					"mobile": true
