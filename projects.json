@@ -1239,6 +1239,17 @@
 					"embed": "",
 					"alt-text": "",
 					"desktop": true,
+					"mobile": false
+				}
+			],
+			[
+				{
+					"image-normal": "various-maddies-story.jpg",
+					"image-hover": "",
+					"video": "various-maddies-story-mobile.mp4",
+					"embed": "",
+					"alt-text": "",
+					"desktop": false,
 					"mobile": true
 				}
 			],
