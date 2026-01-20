@@ -55,7 +55,16 @@
 			],
 			[
 				{
-					"image-normal": "nba-slide-02.jpg",
+					"image-normal": "AUDIO-SAMPLE.jpg",
+					"image-hover": "",
+					"video": "AUDIO-SAMPLE-SMALL.mp4",
+					"embed": "",
+					"alt-text": "",
+					"desktop": true,
+					"mobile": true
+				},
+				{
+					"image-normal": "Show-Tile.png",
 					"image-hover": "",
 					"video": "",
 					"embed": "",
@@ -66,7 +75,7 @@
 			],
 			[
 				{
-					"image-normal": "nba-slide-03.jpg",
+					"image-normal": "UI.png",
 					"image-hover": "",
 					"video": "",
 					"embed": "",
@@ -77,117 +86,7 @@
 			],
 			[
 				{
-					"image-normal": "nba-slide-04.jpg",
-					"image-hover": "",
-					"video": "",
-					"embed": "",
-					"alt-text": "",
-					"desktop": true,
-					"mobile": true
-				}
-			],
-			[
-				{
-					"image-normal": "nba-slide-05.jpg",
-					"image-hover": "",
-					"video": "",
-					"embed": "",
-					"alt-text": "",
-					"desktop": true,
-					"mobile": true
-				}
-			],
-			[
-				{
-					"image-normal": "nba-slide-06.jpg",
-					"image-hover": "",
-					"video": "",
-					"embed": "",
-					"alt-text": "",
-					"desktop": true,
-					"mobile": true
-				}
-			],
-			[
-				{
-					"image-normal": "nba-slide-07.jpg",
-					"image-hover": "",
-					"video": "",
-					"embed": "",
-					"alt-text": "",
-					"desktop": true,
-					"mobile": true
-				}
-			],
-			[
-				{
-					"image-normal": "nba-slide-08.jpg",
-					"image-hover": "",
-					"video": "",
-					"embed": "",
-					"alt-text": "",
-					"desktop": true,
-					"mobile": true
-				}
-			],
-			[
-				{
-					"image-normal": "nba-slide-09.jpg",
-					"image-hover": "",
-					"video": "",
-					"embed": "",
-					"alt-text": "",
-					"desktop": true,
-					"mobile": true
-				}
-			],
-			[
-				{
-					"image-normal": "nba-slide-10.jpg",
-					"image-hover": "",
-					"video": "",
-					"embed": "",
-					"alt-text": "",
-					"desktop": true,
-					"mobile": true
-				}
-			],
-			[
-				{
-					"image-normal": "nba-slide-11.jpg",
-					"image-hover": "",
-					"video": "",
-					"embed": "",
-					"alt-text": "",
-					"desktop": true,
-					"mobile": true
-				}
-			],
-			[
-				{
-					"image-normal": "nba-slide-12.jpg",
-					"image-hover": "",
-					"video": "",
-					"embed": "",
-					"alt-text": "",
-					"desktop": true,
-					"mobile": true
-				}
-			],
-			[
-				{
-					"image-normal": "nba-slide-13.jpg",
-					"image-hover": "",
-					"video": "",
-					"embed": "",
-					"alt-text": "",
-					"desktop": true,
-					"mobile": true
-				}
-			],
-			[
-				{
-					"image-normal": "nba-slide-14.jpg",
+					"image-normal": "Pilot-Season-Epps.png",
 					"image-hover": "",
 					"video": "",
 					"embed": "",
