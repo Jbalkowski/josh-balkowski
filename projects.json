@@ -35,21 +35,21 @@
 				{
 					"image-normal": "nba-slides.png",
 					"image-hover": "",
-					"video": "nba-slides.mp4",
+					"video": "nba-slides-mobile.mp4",
 					"embed": "",
 					"alt-text": "",
 					"desktop": true,
-					"mobile": false
+					"mobile": true
 				}
 			],
 			[
 				{
-					"image-normal": "nba-slides.png",
+					"image-normal": "UI.png",
 					"image-hover": "",
-					"video": "nba-slides-mobile.mp4",
+					"video": "",
 					"embed": "",
 					"alt-text": "",
-					"desktop": false,
+					"desktop": true,
 					"mobile": true
 				}
 			],
@@ -65,17 +65,6 @@
 				},
 				{
 					"image-normal": "Show-Tile.png",
-					"image-hover": "",
-					"video": "",
-					"embed": "",
-					"alt-text": "",
-					"desktop": true,
-					"mobile": true
-				}
-			],
-			[
-				{
-					"image-normal": "UI.png",
 					"image-hover": "",
 					"video": "",
 					"embed": "",
