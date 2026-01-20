@@ -89,12 +89,12 @@ const infoContentColumn1 = `
 const infoContentColumn2 = `
 	<h2>Recently</h2>
 	<p>
-		Developing a nostalgia-driven NBA concept as a creative venture in sports storytelling and brand-building. Supported agencies and production companies on high-stakes presentations and treatments for global brands and directors.
+		Crafting a nostalgia-driven NBA concept as a creative venture in sports storytelling and brand-building. Supported agencies and production companies on high-stakes presentations and treatments for global brands and directors.
 	</p>
 
 	<h2>Currently</h2>
 	<p>
-		Developing a mental health brand as a creative challenge.
+		Developing and redesigning a hybrid mental health brand in Toronto.
 	</p>
 
 	<h2>Open To</h2>
