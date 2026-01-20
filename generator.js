@@ -89,17 +89,17 @@ const infoContentColumn1 = `
 const infoContentColumn2 = `
 	<h2>Recently</h2>
 	<p>
-		Worked with Apple as a Senior Designer on a confidential project. Supported agencies and production companies on high-stakes presentations and treatments for global brands and directors.
+		Developing a nostalgia-driven NBA concept as a creative venture in sports storytelling and brand-building. Supported agencies and production companies on high-stakes presentations and treatments for global brands and directors.
 	</p>
 
 	<h2>Currently</h2>
 	<p>
-		Developing a nostalgia-driven NBA concept as a creative venture in sports storytelling and brand-building, while also developing new speculative projects that push my end-to-end creative practice.
+		Developing a mental health brand as a creative challenge.
 	</p>
 
 	<h2>Open To</h2>
 	<p>
-		Open to senior design and art direction roles that bring clarity to complex ideas, sharpen storytelling, and scale creative systems across brand, presentation, and narrative design.
+		Open to bringing clarity to complex ideas, sharpen storytelling, and scale creative systems across brand, presentation, and narrative design.
 	</p>
 `;
 
