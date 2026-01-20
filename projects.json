@@ -1239,6 +1239,16 @@
 					"embed": "",
 					"alt-text": "",
 					"desktop": true,
+					"mobile": false
+				}
+			],			[
+				{
+					"image-normal": "various-itch.jpg",
+					"image-hover": "",
+					"video": "various-itch-mobile.mp4",
+					"embed": "",
+					"alt-text": "",
+					"desktop": false,
 					"mobile": true
 				}
 			],
