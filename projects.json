@@ -1216,8 +1216,8 @@
 					"video": "various-kitkat-mobile.mp4",
 					"embed": "",
 					"alt-text": "",
-					"desktop": true,
-					"mobile": false
+					"desktop": false,
+					"mobile": true
 				}
 			],
 			[
