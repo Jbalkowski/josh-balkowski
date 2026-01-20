@@ -6,7 +6,9 @@
 		"project": "Historic Audio Archive",
 		"year": "2025",
 		"heading": "Nostalgic soundtrack.",
-		"links": {},
+		"links": {
+			"Live Link ↗": "https://indd.adobe.com/view/84dc8431-cffd-4cb1-8ee3-d7650ad4a377"
+		},
 		"info": {
 			"left-column": {
 				"Challenge": "Fans remember the voices as much as the plays yet once games end, that audio disappears into the archive. We wanted to explore how those dormant broadcasts could be transformed into a cultural initiative for the NBA with lasting impact. The concept was a public audio archive: curating historic radio broadcasts into long-form listening experiences, packaged as seasons, series, and iconic runs. The challenge was to prove that game audio, often treated as disposable, could be reframed and positioned as a scalable cultural asset rather than one-off content.",
@@ -19,11 +21,11 @@
 		"filters": "Presentation",
 		"tags": "Concept, Presentation Design",
 		"hero-desktop": {
-			"image": "nba-hero-desktop.jpg",
+			"image": "nba-hero-desktop.png",
 			"video": ""
 		},
 		"hero-mobile": {
-			"image": "nba-hero-mobile.jpg",
+			"image": "nba-hero-mobile.png",
 			"video": ""
 		},
 		"primary-color": "#D3D5D6",
@@ -31,12 +33,23 @@
 		"media": [
 			[
 				{
-					"image-normal": "nba-slide-01.jpg",
+					"image-normal": "nba-slides.png",
 					"image-hover": "",
-					"video": "",
+					"video": "nba-slides.mp4",
 					"embed": "",
 					"alt-text": "",
 					"desktop": true,
+					"mobile": false
+				}
+			],
+			[
+				{
+					"image-normal": "nba-slides.png",
+					"image-hover": "",
+					"video": "nba-slides-mobile.mp4",
+					"embed": "",
+					"alt-text": "",
+					"desktop": false,
 					"mobile": true
 				}
 			],
