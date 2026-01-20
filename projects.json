@@ -1213,11 +1213,22 @@
 				{
 					"image-normal": "various-kitkat.jpg",
 					"image-hover": "",
+					"video": "various-kitkat-mobile.mp4",
+					"embed": "",
+					"alt-text": "",
+					"desktop": true,
+					"mobile": false
+				}
+			],
+			[
+				{
+					"image-normal": "various-kitkat.jpg",
+					"image-hover": "",
 					"video": "various-kitkat.mp4",
 					"embed": "",
 					"alt-text": "",
 					"desktop": true,
-					"mobile": true
+					"mobile": false
 				}
 			],
 			[
