@@ -1348,6 +1348,17 @@
 					"embed": "",
 					"alt-text": "",
 					"desktop": true,
+					"mobile": false
+				}
+			],		
+			[
+				{
+					"image-normal": "various-nfl.jpg",
+					"image-hover": "",
+					"video": "various-nfl-mobile.mp4",
+					"embed": "",
+					"alt-text": "",
+					"desktop": false,
 					"mobile": true
 				}
 			]
