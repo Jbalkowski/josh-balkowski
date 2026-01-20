@@ -1261,6 +1261,17 @@
 					"embed": "",
 					"alt-text": "",
 					"desktop": true,
+					"mobile": false
+				}
+			],
+			[
+				{
+					"image-normal": "various-bronco.jpg",
+					"image-hover": "",
+					"video": "various-bronco-mobile.mp4",
+					"embed": "",
+					"alt-text": "",
+					"desktop": false,
 					"mobile": true
 				}
 			],
