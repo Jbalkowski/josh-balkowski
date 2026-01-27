@@ -975,6 +975,149 @@
 		"locked-password": ""
 	},
 	{
+		"slug": "twenty3",
+		"client": "Twenty Three",
+		"display-name": "Twenty Three",
+		"project": "Photo Book",
+		"year": "2023",
+		"heading": "One book, twenty-three states.",
+		"links": {},
+		"info": {
+			"left-column": {
+				"Challenge": "Twenty-3 began as a self-initiated photography project developed during extended travel across the United States. The goal was not documenting destinations, but building a coherent set of diptychs in each environment by mirroring similar subject matter, themes, and visual rhythms. The challenge was working within repetition, allowing meaning to emerge from pattern rather than from singular images or narrative moments.",
+				"Outcome": "The result was a small-batch, self-published photo book that functions as a singular documentary-style artifact prioritizing continuity over individual images. Spreads were edited and sequenced to emphasize location and encourage a linear, cover-to-cover experience relative to the order of documentation."
+			},
+			"right-column": {
+				"My Role": "photographed, edited, designed, and published the book independently, overseeing the full process from image-making through final production. The project became a focused exploration of visual storytelling through paired images to represent geographically relational spaces, using contrast and continuity between spreads to suggest narrative without relying on single, definitive moments."
+			}
+		},
+		"filters": "",
+		"tags": "Concept, Photography, Design",
+		"hero-desktop": {
+			"image": "Screenshot.png",
+			"video": ""
+		},
+		"hero-mobile": {
+			"image": "Screenshot.png",
+			"video": ""
+		},
+		"primary-color": "#7EACBF",
+		"secondary-color": "#6B3724",
+		"media": [
+			[
+				{
+					"image-normal": "PSD_025.jpeg",
+					"image-hover": "",
+					"video": "",
+					"embed": "",
+					"alt-text": "",
+					"desktop": true,
+					"mobile": true
+				}
+			],
+			[
+				{
+					"image-normal": "PSD_026.jpeg",
+					"image-hover": "",
+					"video": "",
+					"embed": "",
+					"alt-text": "",
+					"desktop": true,
+					"mobile": true
+				}
+			],
+			[
+				{
+					"image-normal": "PSD_022.jpeg",
+					"image-hover": "",
+					"video": "",
+					"embed": "",
+					"alt-text": "",
+					"desktop": true,
+					"mobile": true
+				}
+			],
+			[
+				{
+					"image-normal": "PSD_023.jpeg",
+					"image-hover": "",
+					"video": "",
+					"embed": "",
+					"alt-text": "",
+					"desktop": true,
+					"mobile": true
+				}
+			],
+			[
+				{
+					"image-normal": "PSD_024.jpeg",
+					"image-hover": "",
+					"video": "",
+					"embed": "",
+					"alt-text": "",
+					"desktop": true,
+					"mobile": true
+				}
+			],
+			[
+				{
+					"image-normal": "PSD_021.jpeg",
+					"image-hover": "",
+					"video": "",
+					"embed": "",
+					"alt-text": "",
+					"desktop": true,
+					"mobile": true
+				}
+			],
+			[
+				{
+					"image-normal": "PSD_028.jpeg",
+					"image-hover": "",
+					"video": "",
+					"embed": "",
+					"alt-text": "",
+					"desktop": true,
+					"mobile": true
+				}
+			],
+			[
+				{
+					"image-normal": "PSD_027.jpeg",
+					"image-hover": "",
+					"video": "",
+					"embed": "",
+					"alt-text": "",
+					"desktop": true,
+					"mobile": true
+				}
+			],
+			[
+				{
+					"image-normal": "PSD_03.jpeg",
+					"image-hover": "",
+					"video": "",
+					"embed": "",
+					"alt-text": "",
+					"desktop": true,
+					"mobile": true
+				}
+			]
+		],
+		"locked-active": false,
+		"locked-client": "",
+		"locked-project": "",
+		"locked-hero-desktop": {
+			"image": "",
+			"video": ""
+		},
+		"locked-hero-mobile": {
+			"image": "",
+			"video": ""
+		},
+		"locked-password": ""
+	},
+	{
 		"slug": "jack-and-jill-health",
 		"client": "Jack & Jill Health",
 		"display-name": "Jack & Jill Health",
