@@ -66,8 +66,8 @@ const workFilters = [
 const infoHeading = `People call me when big ideas need to land with the right people.`;
 
 const infoHeadshot = {
-	"desktop": "headshot-desktop.jpg",
-	"mobile": "headshot-mobile.jpg"
+	"desktop": "headshot-desktop.png",
+	"mobile": "headshot-mobile.png"
 }
 
 const infoContentColumn1 = `
