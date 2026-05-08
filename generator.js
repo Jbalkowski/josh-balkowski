@@ -89,17 +89,17 @@ const infoContentColumn1 = `
 const infoContentColumn2 = `
 	<h2>Recently</h2>
 	<p>
-		Crafting a nostalgia-driven NBA concept as a creative venture in sports storytelling and brand-building. Supported agencies and production companies on high-stakes presentations and treatments for global brands and directors.
+		Joined Publicis Toronto as a Senior Designer, working across branding, campaign ideation and implementation for a range of brands and creative teams.
 	</p>
 
 	<h2>Currently</h2>
 	<p>
-		Developing and redesigning a hybrid mental health brand in Toronto.
+		Redesigning a Toronto-based treatment agency across brand, website, and presentation systems, while continuing to develop independent concepts and exploratory work.
 	</p>
 
 	<h2>Open To</h2>
 	<p>
-		Open to bringing clarity to complex ideas, sharpen storytelling, and scale creative systems across brand, presentation, and narrative design.
+		Fun side projects, creative collaborations, and ambitious low-budget ideas with flexible timelines and high creative ambition.
 	</p>
 `;
 
